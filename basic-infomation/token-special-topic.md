@@ -1,4 +1,4 @@
-# Token special topic
+# Ecoball Tokens
 
 **This topic introduces the knowledge related to digital tokens, including the issuing mechanism and distribution mechanism of ECO, the original token of Ecoball blockchain**.
 

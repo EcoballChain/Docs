@@ -4,7 +4,7 @@
 * [Basic infomation](basic-infomation/README.md)
   * [Introduction](basic-infomation/ecoball-introduction.md)
   * [Consensus mechanism](basic-infomation/consensus-mechanism.md)
-  * [Token special topic](basic-infomation/token-special-topic.md)
+  * [Ecoball Tokens](basic-infomation/token-special-topic.md)
   * [Blockchain explorer](basic-infomation/blockchain-explorer.md)
   * [Ecological application](basic-infomation/ecological-application.md)
 * [Digital wallet](digital-wallet/README.md)
