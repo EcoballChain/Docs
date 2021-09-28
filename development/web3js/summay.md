@@ -8,9 +8,7 @@ Contents:
 
 User Documentation
 
-* * * 
 API Reference
 
-* * * * * * * * * * * * * 
 Special thanks to [Netlify](https://www.netlify.com/) for providing build and deploy services for our end-to-end integration tests.
 

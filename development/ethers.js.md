@@ -15,6 +15,5 @@ The ethers.js library aims to be a complete and compact library for interacting 
 
 This section will be kept up to date, linking to documentation of older versions of the library.
 
-* * 
-The content of this site is licensed under the [Creative Commons License](https://choosealicense.com/licenses/cc-by-4.0/). Generated on August 26, 2021, 12:39am.
+* * The content of this site is licensed under the [Creative Commons License](https://choosealicense.com/licenses/cc-by-4.0/). Generated on August 26, 2021, 12:39am.
 

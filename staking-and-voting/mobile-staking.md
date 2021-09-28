@@ -32,7 +32,7 @@ Staking on a mobile phone also requires invoking the staking function of the Eco
 
 5）After entering the staking&voting page, you need to connect the wallet to conduct subsequent operations such as staking and voting. Click the "Connect" button here：
 
-![entering the staking&amp;voting page](../.gitbook/assets/staking-app-05.png)
+![entering the staking&amp;voting page](../.gitbook/assets/staking-app-05%20%281%29.png)
 
 The other operations about _staking and voting_ are the same as the web side, please refer to [_Web staking_](web-staking.md)_._
 

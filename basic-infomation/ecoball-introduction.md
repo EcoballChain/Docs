@@ -1,6 +1,6 @@
 # Introduction
 
-**This article explains what is Ecoball, why you chose it, and how to join the Ecoball ecosystem.Welcome to the reading**.
+**This article explains what Ecoball is, why you should use it, and how to participate in the Ecoball networks.**
 
 ## What is Ecoball? <a id="what-is-ecoball"></a>
 

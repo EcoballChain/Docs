@@ -1,8 +1,7 @@
 # Web3.js
 
 * * web3.js - Ethereum JavaScript API
-* 
-## web3.js - Ethereum JavaScript API[¶](web3.js.md)​ <a id="web-3-js-ethereum-javascript-api"></a>
+* **web3.js - Ethereum JavaScript API**[**¶**](web3.js.md)**​**
 
 web3.js is a collection of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 
@@ -14,9 +13,7 @@ Contents:
 
 User Documentation
 
-* * * 
 API Reference
 
-* * * * * * * * * * * * * 
 Special thanks to [Netlify](https://www.netlify.com/) for providing build and deploy services for our end-to-end integration tests.
 
