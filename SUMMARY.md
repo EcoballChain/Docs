@@ -6,7 +6,7 @@
   * [Consensus mechanism](basic-infomation/consensus-mechanism.md)
   * [Ecoball Tokens](basic-infomation/token-special-topic.md)
   * [Blockchain explorer](basic-infomation/blockchain-explorer.md)
-  * [Ecological application](basic-infomation/ecological-application.md)
+  * [On-chain applications](basic-infomation/ecological-application.md)
 * [Digital wallet](digital-wallet/README.md)
   * [Web digital wallet](digital-wallet/web-digital-wallet.md)
   * [Mobile digital wallet](digital-wallet/mobile-digital-wallet.md)

@@ -1,4 +1,4 @@
-# Ecological application
+# On-chain applications
 
 **EcoballChain is an underlying blockchain system with a keen sense of innovation and a solid technical accumulation. Ecoball can support the following type application, but are not limited to these**.
 
