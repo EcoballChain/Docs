@@ -30,11 +30,11 @@ In the early stage of the community, pioneer miners deserve higher rewards. To r
 
 The formula to calculate block rewards (ECO release) during each voting cycle:
 
-![where T represents the block height.](../.gitbook/assets/0.6.PNG)
+![Where T represents the block height.](../.gitbook/assets/0.6.PNG)
 
 Below are illustrations of the mining reward rules:
 
-![the total supply amount of ECO (y-axis) over years (x-axis) without deflation caused transaction fees burning](../.gitbook/assets/1.PNG)
+![The total supply amount of ECO (y-axis) over years (x-axis) without deflation caused transaction fees burning](../.gitbook/assets/1.PNG)
 
 ![Block rewards (ix-axis) to miners (including validators and voters) will be released linearly within 30 years (y-axis) after the mainnet launch](../.gitbook/assets/2.PNG)
 
