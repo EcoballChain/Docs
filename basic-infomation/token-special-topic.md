@@ -1,6 +1,6 @@
 # Token - ECO
 
-**This page introduces  ECO and the tokenomics behind.**
+**This page introduces ECO and the tokenomic.**
 
 ## What is ECO? <a href="what-is-eco" id="what-is-eco"></a>
 
