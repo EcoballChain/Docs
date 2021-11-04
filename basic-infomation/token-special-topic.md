@@ -1,24 +1,50 @@
-# Ecoball Tokens
+# Token - ECO
 
-**This topic introduces the knowledge related to digital tokens, including the issuing mechanism and distribution mechanism of ECO, the original token of Ecoball blockchain**.
+**This page introduces  ECO and the tokenomics behind.**
 
-## What is Token? <a id="what-is-token"></a>
+## What is ECO? <a href="what-is-eco" id="what-is-eco"></a>
 
-A token is an equity certificate in digital form. It represents a kind of rights, an inherent and intrinsic value. Token can represent all rights and interests that can be digitized, from ID cards to academic diplomas, from currency to bills, from keys, tickets to points, cards and coupons, from stocks to bonds, accounts, ownership, qualifications, certifications, and other human society's proof of rights. The token has strong encryption characteristics. The authenticity, tamper-proof, and privacy protection capabilities of the token are guaranteed by cryptography. Each token is a right protected by cryptography. This protection is more robust and reliable. The token must be circulated and must be able to flow in a network so that it can be verified anytime, anywhere.
+ECO is the native token of the Ecoball ecosystem which serves as the transaction settlement medium in the Ecoball blockchain system and assumes the functionalities of bookkeeping, governance and equity certificates.
 
-Token is the most important element of the blockchain, and it has a natural incentive mechanism. Blockchain can exert its maximum value only if it has a pass. If there is no token, the advantages of the blockchain may not be fully utilized.
+Any transaction on the Ecoball blockchain needs to consume ECO, similar to gas fees on other network. But the cost of consumption is negligible for normal transactions; however, in case of malicious attacks, a large amount of fuel will be consumed, making the attacker unable to sustain. Therefore ECO also safeguards the Ecoball blockchain.
 
-Tokens are the most beautiful flowers and fruits produced by blockchain technology. The two are inseparable. The most important thing about tokens is the ability to confirm assets and transactions in an economic entity.
+## ECO Token Economics
 
-## What is ECO? <a id="what-is-eco"></a>
+### 1.1.   Total Quantity
 
-ECO is the native token of Ecoball,and serves as the transaction settlement medium in the Ecoball blockchain system and the equity certificate on the blockchain.
+Initial Minting Quantity: 378 million
 
-Any transaction on the Ecoball blockchain needs to consume a certain amount of ECO, similar to gas fees. For normal transactions, the cost of consumption is negligible; but for malicious attacks, a large amount of fuel will be consumed, making the attack unable to continue for a long time, so the normal operation of the blockchain system can also be protected through ECO.
+Total Minting Quantity: 2.1 billion
 
-The Ecoball blockchain system can also issue other tokens, which are equivalent to application-layer tokens. Through transactions, assets can be circulated on the chain, thus constructing a value circulation system.
+Distribution:
 
-## ECO distribution mechanism <a id="eco-distribution-mechanism"></a>
+![Token Distribution](<../.gitbook/assets/0 (1).PNG>)
 
-The ECO distribution mechanism is based on the predetermined ratio, as shown in the following table:
+Purpose of the distribution：
+
+![](../.gitbook/assets/0.5.PNG)
+
+### 1.2.  Mining Rules
+
+In the early stage of the community, pioneer miners deserve higher rewards. To reward these pioneers, we adopt an ECO releasing schedule with a linear decreasing model, early miners will receive more ECO per block as rewards. Going forward as the platform become stable and robust, ECO releasing amount will gradually decrease on per a block basis.
+
+The formula to calculate block rewards (ECO release) during each voting cycle:
+
+![where T represents the block height.](../.gitbook/assets/0.6.PNG)
+
+Below are illustrations of the mining reward rules:
+
+![the total supply amount of ECO (y-axis) over years (x-axis) without deflation caused transaction fees burning](../.gitbook/assets/1.PNG)
+
+![Block rewards (ix-axis) to miners (including validators and voters) will be released linearly within 30 years (y-axis) after the mainnet launch](../.gitbook/assets/2.PNG)
+
+### 1.3.  Staking Rewards
+
+A key indicator to the robustness of a Proof-of-Stake system is the staking ratio of the network. A high staking ratio will make the system hard-to-attack. However, once the staking ratio pass a point where it becomes too high, the system will be overwhelmed, consequently, liquidity in the system will be decreased. Therefore, in the long run, the staking ratio will dynamically adjust itself to reach equilibrium. Referring to current PoS public blockchains, the equilibrium point should be where the staking ratio is between 0.5 and 0.6.
+
+The self-balancing mechanism of the staking ratio is realized by the negative correlation between the staking yield and the staking ratio. When the staking ratio drops, the staking yield will increase to encourage more users to stake; when the staking ratio increases, the staking yield will drop for users to seek other opportunities. The security and stability of the system is maintained through such mechanism.
+
+The following chart illustrates an estimation of staking yields vs staking ratios:
+
+![Estimated staking yields versus different staking ratios](../.gitbook/assets/3.PNG)
 
