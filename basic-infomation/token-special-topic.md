@@ -4,9 +4,9 @@
 
 ## What is ECO? <a href="what-is-eco" id="what-is-eco"></a>
 
-ECO is the native token of the Ecoball ecosystem which serves as the transaction settlement medium in the Ecoball blockchain system and assumes the functionalities of bookkeeping, governance and equity certificates.
+ECO is the native token of the Ecoball ecosystem. It serves as the transaction settlement medium and assumes the functionalities of bookkeeping, governance and equity certificates.
 
-Any transaction on the Ecoball blockchain needs to consume ECO, similar to gas fees on other network. But the cost of consumption is negligible for normal transactions; however, in case of malicious attacks, a large amount of fuel will be consumed, making the attacker unable to sustain. Therefore ECO also safeguards the Ecoball blockchain.
+Any transaction on the Ecoball blockchain will consume ECO, similar to gas fees consumed on other networks. But the consumption cost is negligible for normal transactions; however, in case of malicious attacks, a large amount of ECO will be consumed, making the attacker unable to sustain. This mechanism endows ECO the power to safeguard the Ecoball blockchain.
 
 ## ECO Token Economics
 
@@ -26,7 +26,7 @@ Purpose of the distribution：
 
 ### 1.2.  Mining Rules
 
-In the early stage of the community, pioneer miners deserve higher rewards. To reward these pioneers, we adopt an ECO releasing schedule with a linear decreasing model, early miners will receive more ECO per block as rewards. Going forward as the platform become stable and robust, ECO releasing amount will gradually decrease on per a block basis.
+In the early stage of the community, pioneer miners deserve higher rewards. To reward these pioneers, we adopt an ECO releasing schedule with a linear decreasing model, early miners will receive more ECO per block as rewards. Going forward as the platform become stable and robust, ECO releasing amount will gradually decrease on a per block basis.
 
 The formula to calculate block rewards (ECO release) during each voting cycle:
 
