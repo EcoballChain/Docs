@@ -4,7 +4,7 @@
 
 ## What is ECO? <a href="what-is-eco" id="what-is-eco"></a>
 
-ECO is the native token of the Ecoball ecosystem. It serves as the transaction settlement medium and assumes the functionalities of bookkeeping, governance and equity certificates.
+ECO is the native token of the Ecoball ecosystem. It serves as a transaction settlement medium and assumes the functionalities of bookkeeping, governance and equity certificates.
 
 Any transaction on the Ecoball blockchain will consume ECO, similar to gas fees consumed on other networks. But the consumption cost is negligible for normal transactions; however, in case of malicious attacks, a large amount of ECO will be consumed, making the attacker unable to sustain. This mechanism endows ECO the power to safeguard the Ecoball blockchain.
 
