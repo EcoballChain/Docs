@@ -1,40 +1,38 @@
 # Web digital wallet
 
-The web digital wallet adopts the well-known MetaMask \(Little Fox\) as a browser plug-in, which supports mainstream chrome, Firefox, Edge and other mainstream browsers. Users can download and install it by themselves.
+Ensure you have installed MetaMask wallet on your browser. If you have not yet done so, visit [https://metamask.io/](https://metamask.io) for details.
 
-Start by searching for the "MetaMask" extension in your browser, and when you find it, add it to your browser. The MetaMask wallet can be launched by clicking on the MetaMask icon in the toolbar.
+If you have installed MetaMask wallet, add Ecoball mainnet to your wallet through the following steps:
 
-After starting the MetaMask wallet, users need to manually add Ecoball network node information to the MetaMask Settings first.
+![](<../.gitbook/assets/Inked2\_LI (2).jpg>)
 
-The configurations of the Ecoball Chain test network are as follows:
+Once you click ‘Custom RPC’, MetaMask wallet will ask for network information. Fill in the columns with Ecoball Mainnet information accordingly:
 
-After configuring the above network information, you can create or import the wallet of Ecoball blockchain, and then query and transfer the assets.
+| Network Name                 | EcoBall Mainnet                                                      |
+| ---------------------------- | -------------------------------------------------------------------- |
+| NewRPC URL                   | [https://api.ecoball.org/ecoball/](https://api.ecoball.org/ecoball/) |
+| Chain ID                     | 2100                                                                 |
+| Currency Symbol (optional)   | ECO                                                                  |
+| Block Explore URL (optional) | [https://scan.ecoball.org/](https://scan.ecoball.org)                |
 
-Here is the MetaMask wallet network configuration process:
+![](../.gitbook/assets/metamask.PNG)
 
-1\)click the function button in the upper right corner of the wallet's main interface:
+Save.
 
-![click the function button](../.gitbook/assets/metamask-web-01.png)
+You may add Ecoball mainnet manually, you will be asked to enter the above network information:
 
-2\)click the "Settings" button at the bottom of the drop-down menu:
+&#x20;
 
-![click the function button](../.gitbook/assets/metamask-web-02.png)
+![step 1](../.gitbook/assets/Inked2\_LI.jpg) ![step 2](../.gitbook/assets/man1.PNG) ![step 3](../.gitbook/assets/man2.PNG) ![step 4](<../.gitbook/assets/metamask (1).PNG>)
 
-3\)click the "Network" menu inside the menu to expand:
+Once you save the network, go back to Ecoball validators page and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
 
-![click the function button](../.gitbook/assets/metamask-web-03.png)
+![](<../.gitbook/assets/1 (1).PNG>)
 
-4\)click "Add Network" in the lower part of the page:
+Then MetaMask wallet will pop up a confirmation window, click ‘Next’ then ‘Connect’. Make sure your wallet is connected to Ecoball mainnet:
 
-![click the function button](../.gitbook/assets/metamask-web-04.png)
+![click 'Next'](../.gitbook/assets/2.2.PNG)
 
-5\)enter the configuration parameters, as shown in the table above:
+![click 'Connect'](../.gitbook/assets/2.3.PNG)
 
-![click the function button](../.gitbook/assets/metamask-web-05.png)
-
-After input, click the "Save" button. If there is no problem in filling in the parameters, the save will be successful; otherwise, an error will be displayed.
-
-6\)select the Ecoball-Testnet network and perform related operations:
-
-![click the function button](../.gitbook/assets/metamask-web-06.png)
-
+![make sure you are connected to Ecoball mainnet](../.gitbook/assets/2.4.PNG)
