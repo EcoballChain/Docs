@@ -1,34 +1,62 @@
-# Mobile digital wallet
+# Mobile version
 
-MetaMask or IMToken is recommended for mobile digital wallets. Like the web-based digital wallet, you need to set up the EcoBall network before using it. Network parameters refer to [Web Digital Wallet](web-digital-wallet.md).
+Ecoball chain currently support MetaMask and ImToken on mobile, please find below links to download on your phone:
 
-The method of configuring network parameters for digital wallet on mobile terminal is basically the same as that on web terminal, as shown below:
+MetaMask: [https://metamask.io/download](https://metamask.io/download)
 
-1\)click the function button in the upper left corner of the wallet main interface to pop up the main menu：
+ImToken: [https://token.im/download](https://token.im/download)
 
-![click the function button](../.gitbook/assets/metamask-app-01.png)
+## Mobile Wallet Connect to Ecoball Mainnet
 
-2\)click the "Settings" button under the main menu to pop up the Settings menu：
+You may set up your mobile wallet both manually and automatically:
 
-![click the settings button](../.gitbook/assets/metamask-app-02.png)
+**1.      MetaMask – manual set up**
 
-3\)click the "network" menu inside the Settings menu to pop up the network Settings menu：
+On your mobile app, go to _**My Account → Settings → Networks → Add Network**_, then enter below information accordingly:
 
-![click the network menu](../.gitbook/assets/metamask-app-03.png)
+| Network Name                 | EcoBall Mainnet                                                      |
+| ---------------------------- | -------------------------------------------------------------------- |
+| NewRPC URL                   | [https://api.ecoball.org/ecoball/](https://api.ecoball.org/ecoball/) |
+| Chain ID                     | 2100                                                                 |
+| Currency Symbol (optional)   | ECO                                                                  |
+| Block Explore URL (optional) | [https://scan.ecoball.org/](https://scan.ecoball.org)                |
 
-4\)click the "Add Network" button at the bottom of the displayed network Settings menu：
+![step 1](<../.gitbook/assets/1 (2).jpg>) ![step 2](<../.gitbook/assets/2 (1).jpg>) ![step 3](<../.gitbook/assets/3 (1).jpg>) ![step 4](../.gitbook/assets/4.jpg)
 
-![click the add network button](../.gitbook/assets/metamask-app-04.png)
+**2.      MetaMask – automatic set up**
 
-5\)enter the configuration parameters on the page that is displayed. For details, see the table in [Web Digital Wallet](https://github.com/EcoballChain/docs.ecoball.org/tree/295b3fcb6f7f46fe8fdfaa0e690f3c10f5e9e5a5/digital-wallet/walletweb.md)：
+You can also set up connect using Ecoball automatic connection, follow the steps:_ **My Account → Browser → Search → Go to **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ ‘Add EcoBall Chain’**_
 
-![enter the configuration parameters](../.gitbook/assets/metamask-app-05.png)
+![step 1](<../.gitbook/assets/1 (1).jpg>) ![step 2](<../.gitbook/assets/A1 (1).jpg>) ![step 3](<../.gitbook/assets/A2 (1).jpg>) ![step 4](../.gitbook/assets/A3.jpg)
 
-After the input is complete, click "Save" button. If there is no problem with parameters, the save will be successful; otherwise, an error message will be displayed, and you can continue to save after correcting the error message.
+![step 5](../.gitbook/assets/A6.jpg) ![step 6](../.gitbook/assets/A7.jpg)
 
-At this point, network parameters are set.
+**3.      ImToken – manual set up**
 
-6\)To perform EcoBall blockchain operations, select the Ecoball Testnet network：
+On your mobile ImToken app, go to _**My Profile → Settings → Node Settings → Ethereum → ‘+’ → Customize**_, then enter below information:
 
-![select the ecoball testnet](../.gitbook/assets/metamask-app-06.png)
+| Network Name                 | EcoBall Mainnet                                                      |
+| ---------------------------- | -------------------------------------------------------------------- |
+| RPC URL                      | [https://api.ecoball.org/ecoball/](https://api.ecoball.org/ecoball/) |
+| Chain ID                     | 2100                                                                 |
+| Symbol (optional)            | ECO                                                                  |
+| Block Explore URL (optional) | [https://scan.ecoball.org/](https://scan.ecoball.org)                |
+
+![step 1](../.gitbook/assets/1.jpg) ![step 2](../.gitbook/assets/2.jpg) ![step 3](../.gitbook/assets/3.jpg) ![step 4](<../.gitbook/assets/4 (1).jpg>) ![step 5](../.gitbook/assets/5.jpg) ![step 6](../.gitbook/assets/6.jpg) ![step 7](../.gitbook/assets/7.jpg)
+
+&#x20;
+
+**4.      ImToken – automatic set up**
+
+You may also set up Ecoball connection using automatic set up, go to _**Browser → Enter link: **_https://scan.ecoball.org/validators_** → Add EcoBall Chain:**_
+
+![step 1](../.gitbook/assets/A1.jpg) ![step 2](<../.gitbook/assets/A3 (1).jpg>) ![step 3](../.gitbook/assets/A4.jpg) ![step 4](<../.gitbook/assets/A5 (1).jpg>)
+
+&#x20;
+
+&#x20;
+
+
+
+
 
