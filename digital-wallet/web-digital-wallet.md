@@ -1,6 +1,6 @@
-# Web digital wallet
+# Web Wallet
 
-Ensure you have installed MetaMask wallet on your browser. If you have not yet done so, visit [https://metamask.io/](https://metamask.io) for details.
+Make sure you have installed MetaMask wallet on your browser. If you have not yet done so, visit [https://metamask.io/](https://metamask.io) for details.
 
 If you have installed MetaMask wallet, add Ecoball mainnet to your wallet through the following steps:
 
