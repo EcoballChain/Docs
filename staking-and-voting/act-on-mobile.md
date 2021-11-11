@@ -4,6 +4,8 @@ Actions including become a candidate, stake, unstake, move and claim staking rew
 
 Follow the step to login through your mobile wallet: _**My Account → Browser → Search → Go to **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ Login With MetaMask → Connect ;**_
 
-_****_
+![my account](../.gitbook/assets/0.jpg) ![browser](../.gitbook/assets/-2.jpg) ![search](../.gitbook/assets/-1.jpg)
 
-&#x20;then you can proceed your action including stake, unstake, move. Details about the actions please refer to content section 2-6.
+![enter link](../.gitbook/assets/0.55.jpg) ![login](../.gitbook/assets/1.jpg) ![connect](../.gitbook/assets/2.jpg) ![stake](../.gitbook/assets/3.jpg)
+
+then you can proceed your actions including stake, unstake, move. Details about the actions please refer to [Stake, Unstake and Move ECO](stake-unstake-and-move-eco.md).

@@ -11,7 +11,7 @@
   * [Web Wallet](digital-wallet/web-digital-wallet.md)
   * [Mobile Wallet](digital-wallet/mobile-digital-wallet.md)
 * [Validator Matters](staking-and-voting/README.md)
-  * [Rules](staking-and-voting/rules.md)
+  * [Election Rules](staking-and-voting/election-rules.md)
   * [Become a Candidate](staking-and-voting/become-a-candidate.md)
   * [Stake, Unstake and Move ECO](staking-and-voting/stake-unstake-and-move-eco.md)
   * [Claim Staking Rewards](staking-and-voting/claim-staking-rewards.md)

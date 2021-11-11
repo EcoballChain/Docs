@@ -1,6 +1,6 @@
 # Stake, Unstake and Move ECO
 
-## **Stake ECO**
+### **Stake ECO**
 
 Voters (any ECO holder) have the right to stake and vote. You as a voter may click the stake button behind your favorite validator or candidate pool to stake and vote:
 

@@ -1,4 +1,4 @@
-# Mobile version
+# Mobile Wallet
 
 Ecoball chain currently support MetaMask and ImToken on mobile, please find below links to download on your phone:
 
@@ -21,13 +21,13 @@ On your mobile app, go to _**My Account → Settings → Networks → Add Networ
 | Currency Symbol (optional)   | ECO                                                                  |
 | Block Explore URL (optional) | [https://scan.ecoball.org/](https://scan.ecoball.org)                |
 
-![step 1](<../.gitbook/assets/1 (2).jpg>) ![step 2](<../.gitbook/assets/2 (1).jpg>) ![step 3](<../.gitbook/assets/3 (1).jpg>) ![step 4](../.gitbook/assets/4.jpg)
+![step 1](<../.gitbook/assets/1 (2).jpg>) ![step 2](<../.gitbook/assets/2 (1) (1).jpg>) ![step 3](<../.gitbook/assets/3 (1) (1).jpg>) ![step 4](../.gitbook/assets/4.jpg)
 
 **2.      MetaMask – automatic set up**
 
 You can also set up connect using Ecoball automatic connection, follow the steps:_ **My Account → Browser → Search → Go to **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ ‘Add EcoBall Chain’**_
 
-![step 1](<../.gitbook/assets/1 (1).jpg>) ![step 2](<../.gitbook/assets/A1 (1).jpg>) ![step 3](<../.gitbook/assets/A2 (1).jpg>) ![step 4](../.gitbook/assets/A3.jpg)
+![step 1](<../.gitbook/assets/1 (1) (1).jpg>) ![step 2](<../.gitbook/assets/A1 (1).jpg>) ![step 3](<../.gitbook/assets/A2 (1).jpg>) ![step 4](../.gitbook/assets/A3.jpg)
 
 ![step 5](../.gitbook/assets/A6.jpg) ![step 6](../.gitbook/assets/A7.jpg)
 
@@ -42,7 +42,7 @@ On your mobile ImToken app, go to _**My Profile → Settings → Node Settings �
 | Symbol (optional)            | ECO                                                                  |
 | Block Explore URL (optional) | [https://scan.ecoball.org/](https://scan.ecoball.org)                |
 
-![step 1](../.gitbook/assets/1.jpg) ![step 2](../.gitbook/assets/2.jpg) ![step 3](../.gitbook/assets/3.jpg) ![step 4](<../.gitbook/assets/4 (1).jpg>) ![step 5](../.gitbook/assets/5.jpg) ![step 6](../.gitbook/assets/6.jpg) ![step 7](../.gitbook/assets/7.jpg)
+![step 1](<../.gitbook/assets/1 (1).jpg>) ![step 2](<../.gitbook/assets/2 (1).jpg>) ![step 3](<../.gitbook/assets/3 (1).jpg>) ![step 4](<../.gitbook/assets/4 (1).jpg>) ![step 5](../.gitbook/assets/5.jpg) ![step 6](../.gitbook/assets/6.jpg) ![step 7](../.gitbook/assets/7.jpg)
 
 &#x20;
 
