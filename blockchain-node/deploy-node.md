@@ -1,32 +1,32 @@
 # Deploy Node
 
-Validator node software is a cross-platform command line program, planned to support Linux, MacOS, Windows three operating system platforms. The installation and deployment methods for the three platforms are basically the same. For now, only Linux systems are supported.
+Validator node software is a cross-platform command line program, which for now only supports Linux system.&#x20;
 
-## Download node software <a href="download-node-software" id="download-node-software"></a>
+Integration for MacOS, Windows will be coming soon.
 
-First, create a folder called Ecoball in the Linux system as the working directory of the Ecoball blockchain system, and enter this folder，download the node software package:
+### Download node software <a href="download-node-software" id="download-node-software"></a>
+
+Create a folder and name it 'Ecoball' in the Linux system as the working directory of the Ecoball blockchain system, download the node software package to the folder:
 
 > mkdir ecoball
 >
 > cd ecoball
 >
-> git clone [https://github.com/EcoBallChain/validator-node](https://github.com/EcoBallChain/validator-node/ecoball)
+> git clone [https://github.com/EcoballChain/validator-node](https://github.com/EcoballChain/validator-node)
 >
 > ​
 
-After downloading, take a look at the downloaded file:
+The downloaded file:
 
 > ls -l
 
-After decompressing, enter the decompressed directory to see what files.The default directory name is validator\_node. If only one node is deployed, the default directory name is validator\_node. If you need to deploy multiple nodes, you can change the name to validator\_node1, validator\_node2, validator\_node3, and so on.
+Decompress the file, then in the decompressed directory, the default directory file name is 'validator\_node'. If you need to deploy multiple nodes, you may change rename the nodes to 'validator\_node1', 'validator\_node2', 'validator\_node3' and so on.
 
 > cd validator\_node
 >
 > ls
 >
 > README.md config.toml ecoball spec.json
-
-Among them:
 
 * README.md is the node installation configuration description file
 * config.toml is the node startup configuration file
@@ -37,65 +37,59 @@ The downloaded software usually does not have executable permissions, so it is n
 
 > chmod +x ecoball
 
-as follows:
-
 ![node directory structure](../.gitbook/assets/node-install-ecoball-en.png)
 
-In addition, the corresponding configuration needs to be performed according to the instructions of the README.md file. Divided into the following steps:
+In addition, the corresponding configuration needs to be performed according to the instructions of the README.md file. Follow below steps for configuration:
 
-Step 1: create a wallet;
+Step 1: Create a wallet;
 
 Step 2: Create a password file;
 
 Step 3: Modify the startup configuration file;
 
-Step 4: Start the node software;
+Step 4: Launch the node software;
 
-Step 5: staking.
+Step 5: Staking.
 
-The descriptions are made separately below.
-
-## Create a wallet <a href="create-a-wallet" id="create-a-wallet"></a>
+### Step 1: Create a wallet <a href="create-a-wallet" id="create-a-wallet"></a>
 
 Create a wallet:
 
 > ./ecoball -c config.toml account new
 
-A password prompt appears. Enter the wallet password twice to generate the wallet address. For example, here is the wallet address I generated:
+A password prompt appears. Enter the wallet password twice to generate a wallet address. For example, here is the wallet address:
 
 > 0x01c9a1515ae1d0df16e30f48ab5cbddcfd9413d4
 
-Make a note of your wallet address and password and keep them safe so you'll need them more often in the future.
+Write down your wallet address and password, keep them safe.
 
 ![create wallet on the node](../.gitbook/assets/node-create-wallet-en.png)
 
-After the wallet is created, the system automatically creates a data directory in the current directory, which contains the keys/espuma/ directory structure. The following is the keystore file of the wallet. For asset security, it is recommended that this file be backed up and stored properly.
+After the wallet is created, the system automatically creates a data directory in the current directory, which contains the keys/espuma/directory structure. The following is the keystore file of the wallet. For asset security, it is recommended that this file be backed up and stored properly.
 
 ![wallet keystore file](../.gitbook/assets/node-wallet-keystore-en.png)
 
-## Create a password file <a href="create-a-password-file" id="create-a-password-file"></a>
+### Create a password file <a href="create-a-password-file" id="create-a-password-file"></a>
 
 create a password file.
 
 > vim passwd.txt
 
-Then enter the password you entered when you created the wallet above. Save and exit.
+Then enter the password you created early along with wallet creation above. Save and exit.
 
 ![wallet password file](../.gitbook/assets/node-wallet-passwd-en.png)
 
-## Modify the startup configuration file <a href="modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
+### Modify the startup configuration file <a href="modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
 
 > vim config.toml
 
-The initial value of the node configuration file is as follows:
+The initial value of the node configuration file:
 
 ![initial node config](../.gitbook/assets/node-config-init.png)
 
-Modify several necessary parameters according to the instructions in the README.md file.
+Modify following parameters according to the instructions in the README.md file:
 
-Mainly the following parameters:
-
-* engine signer address: engine signature wallet address, fill in the wallet address created before, as the transaction signature wallet
+* engine signer address: engine signature wallet address, use the wallet address created before as the transaction signature wallet
 * password file: fill in the password file created before, and note that the brackets inside cannot be lost, otherwise an error will be reported
 * unlock: unlock the wallet address, same as the engine signer, fill in the wallet address created before, the brackets cannot be lost
 
