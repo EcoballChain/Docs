@@ -6,7 +6,7 @@ MetaMask: [https://metamask.io/download](https://metamask.io/download)
 
 ImToken: [https://token.im/download](https://token.im/download)
 
-## Mobile Wallet Connect to Ecoball Mainnet
+## Connect to Ecoball Mainnet
 
 We recommend you to set up your wallet using automatic set up. However, you may also set up your mobile wallet in a manual way.
 
