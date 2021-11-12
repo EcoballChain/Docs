@@ -7,7 +7,7 @@
   * [Token - ECO](basic-infomation/token-special-topic.md)
   * [Blockchain explorer](basic-infomation/blockchain-explorer.md)
   * [On-chain applications](basic-infomation/ecological-application.md)
-* [Add Ecoball to Trust Wallet](digital-wallet/README.md)
+* [Add Ecoball to Wallet](digital-wallet/README.md)
   * [Web Wallet](digital-wallet/web-digital-wallet.md)
   * [Mobile Wallet](digital-wallet/mobile-digital-wallet.md)
 * [Validator Matters](staking-and-voting/README.md)

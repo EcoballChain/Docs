@@ -1,6 +1,6 @@
-# Add Ecoball to Trust Wallet
+# Add Ecoball to Wallet
 
-This is a guide to add Ecoball chain to your crypto wallets.&#x20;
+This is a guide to add Ecoball chain to your crypto wallets. Currently MetaMask and ImToken are supported.
 
 [Web Wallet](web-digital-wallet.md)
 
