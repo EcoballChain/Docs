@@ -9,7 +9,7 @@
   * [On-chain applications](basic-infomation/ecological-application.md)
 * [Add Ecoball to Wallet](digital-wallet/README.md)
   * [Web Wallet](digital-wallet/web-digital-wallet.md)
-  * [Mobile Wallet](digital-wallet/mobile-digital-wallet.md)
+  * [Download Mobile Wallet](digital-wallet/mobile-digital-wallet.md)
 * [Validator Matters](staking-and-voting/README.md)
   * [Election](staking-and-voting/election.md)
   * [Become a Candidate](staking-and-voting/become-a-candidate.md)
