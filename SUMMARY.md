@@ -8,7 +8,7 @@
   * [Blockchain explorer](basic-infomation/blockchain-explorer.md)
   * [On-chain applications](basic-infomation/ecological-application.md)
 * [Add Ecoball Chain to Wallet](digital-wallet/README.md)
-  * [Web Wallet](digital-wallet/web-digital-wallet.md)
+  * [Desktop Wallet](digital-wallet/web-digital-wallet.md)
   * [Mobile Wallet](digital-wallet/mobile-digital-wallet.md)
 * [Validator Matters](staking-and-voting/README.md)
   * [Election](staking-and-voting/election.md)
