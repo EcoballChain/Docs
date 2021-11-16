@@ -1,10 +1,6 @@
 # Mobile Wallet
 
-Ecoball chain currently supports MetaMask and ImToken on mobile, please find below links to download on your phone:
-
-MetaMask: [https://metamask.io/download](https://metamask.io/download)
-
-ImToken: [https://token.im/download](https://token.im/download)
+Ecoball chain currently supports MetaMask and ImToken on mobile, please go to their official pages or visit mobile app store to download.
 
 ## Connect to Ecoball Mainnet
 
