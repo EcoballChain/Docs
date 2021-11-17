@@ -19,13 +19,7 @@ Once you click ‘Custom RPC’, MetaMask wallet will ask for network informatio
 
 Save.
 
-You may add Ecoball mainnet manually, you will be asked to enter the above network information:
-
-&#x20;
-
-![step 1](../.gitbook/assets/Inked2\_LI.jpg) ![step 2](../.gitbook/assets/man1.PNG) ![step 3](../.gitbook/assets/man2.PNG) ![step 4](<../.gitbook/assets/metamask (1).PNG>)
-
-Once you save the network, go back to Ecoball validators page and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
+Once you save the network, you may check your connectivity by going to Ecoball validators page and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
 
 ![](<../.gitbook/assets/1 (1).PNG>)
 
