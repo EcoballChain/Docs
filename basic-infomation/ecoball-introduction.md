@@ -1,22 +1,14 @@
 # Introduction
 
-## What is Ecoball? <a href="what-is-ecoball" id="what-is-ecoball"></a>
-
-Ecoball is an advanced blockchain developed with innovations. With 5 years of consistent R\&D, Ecoball is now ready to support a large ecosystem, and its foundation is built with a sustainable economic model and a community-driven governance model. Such integration makes Ecoball particularly suitable for demanding Dapps in DeFi, NFT, DAO etc.
+Ecoball is an advanced blockchain developed with innovations. With 5 years of consistent research and development, Ecoball is now ready to support a large ecosystem, and its foundation is built with a sustainable economic model and a community-driven governance model. Such integration makes Ecoball a true decentralization particularly suitable for demanding Dapps in DeFi, NFT, DAO etc.
 
 Ecoball is engineered with a hybrid consensus algorithm, a dynamic multi-chain mechanism and a fast cross-chain communication mechanism, making the network high-performance and highly scalable.
 
-its unique breakthroughs and innovations in technical fields such as cross-chain communication, concurrent processing, distributed storage, and blockchain network system architecture, it can fundamentally solve the constraints the four major problems in the development of blockchain truly realizing large-scale commercial engineering applications of blockchain and meet the needs of blockchain DAPP applications in different scenarios.
+### Ecosystem
 
-The Ecoball ecosystem is composed of Ecoball operating system, Ecoball tokenomic system, community autonomy model, Ecoball blockchain network cloud system, and many Ecoball blockchain Dapp systems, etc., which are used to build a trustworthy value interconnection of human society.
+The Ecoball ecosystem is backed up by a composition of Dapp operating system, ECO tokenomics model, community autonomy model, and the network cloud system.  The mechanics make Ecoball a trustworthy layer for Dapps
 
-To overcome several major challenges brought by blockchain business, Ecoball has independently developed a hybrid consensus algorithm that takes into account fairness and efficiency, multi-chain dynamic integration, and extremely fast cross-chain message routing mechanisms, etc., to build high-performance and highly scalable blockchain operating system platform.
-
-Ecoball's original design of collaborative smart contract technology, smart contract SDK modularization, and smart contract formal verification technologies greatly reduce the threshold for DAPP development while ensuring the security of blockchain applications. At the same time, Ecoball provides innovative blockchain service systems, such as token economy, domain name services, distributed storage services, etc.
-
-The Ecoball blockchain operating system adopts a layered architecture design, including a core layer, an adaptation layer, and a business layer. The core layer encapsulates the key basic component libraries of the blockchain, including encryption and decryption algorithm libraries, account address management, P2P network components, consensus mechanism libraries, state machines, virtual machines, etc.; the adaptation layer provides APIs, All DAPP applications use the API provided by the adaptation layer to obtain Ecoball blockchain services; the business layer provides an application development platform for a variety of application scenarios, and developers can quickly develop Dapps that meet their own business needs.
-
-## Why Ecoball? <a href="why-ecoball" id="why-ecoball"></a>
+### Features
 
 * Vote Proof of Stake
 
@@ -41,6 +33,16 @@ It natively supports cross-chain, and is committed to connecting all assets in t
 * Compatible with Ethereum and Ecological Applications
 
 EcoBall is fully compatible with the Ethereum EVM. It supports Solidity to write smart contracts, the issuance of digital assets, various DEFI applications, and can seamlessly migrate EVM-compatible DEFI applications to the Ecoball public chain.
+
+### Why Ecoball? <a href="why-ecoball" id="why-ecoball"></a>
+
+To overcome several major challenges brought by blockchain business, Ecoball has independently developed a hybrid consensus algorithm that takes into account fairness and efficiency, multi-chain dynamic integration, and extremely fast cross-chain message routing mechanisms, etc., to build high-performance and highly scalable blockchain operating system platform.
+
+Ecoball's original design of collaborative smart contract technology, smart contract SDK modularization, and smart contract formal verification technologies greatly reduce the threshold for DAPP development while ensuring the security of blockchain applications. At the same time, Ecoball provides innovative blockchain service systems, such as token economy, domain name services, distributed storage services, etc.
+
+The Ecoball blockchain operating system adopts a layered architecture design, including a core layer, an adaptation layer, and a business layer. The core layer encapsulates the key basic component libraries of the blockchain, including encryption and decryption algorithm libraries, account address management, P2P network components, consensus mechanism libraries, state machines, virtual machines, etc.; the adaptation layer provides APIs, All DAPP applications use the API provided by the adaptation layer to obtain Ecoball blockchain services; the business layer provides an application development platform for a variety of application scenarios, and developers can quickly develop Dapps that meet their own business needs.
+
+
 
 ## How to join the Ecoball ecosystem? <a href="how-to-join-the-ecoball-ecosystem" id="how-to-join-the-ecoball-ecosystem"></a>
 
