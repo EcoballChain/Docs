@@ -1,6 +1,6 @@
 # Mobile Wallet
 
-Ecoball chain currently supports MetaMask and ImToken on mobile, please go to their official pages or visit mobile app store to download.
+Ecoball chain supports MetaMask and ImToken on mobile, please go to their official pages or visit mobile app store to download.
 
 ## Connect to Ecoball Mainnet
 
@@ -8,7 +8,7 @@ We recommend you to set up your wallet using automatic set up. However, you may 
 
 #### **1. MetaMask – Automatic Set Up**
 
-You can also set up connect using Ecoball automatic connection, follow the steps:_ **My Account → Browser → Search → Go to **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ ‘Add EcoBall Chain’**_
+You can also set up connect using Ecoball automatic connection, follow the steps:_ **My Account → Browser → Search → Input **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ ‘Add EcoBall Chain’**_
 
 ![step 1](<../.gitbook/assets/1 (1) (1).jpg>) ![step 2](<../.gitbook/assets/A1 (1).jpg>) ![step 3](<../.gitbook/assets/A2 (1).jpg>) ![step 4](../.gitbook/assets/A3.jpg)
 
@@ -16,7 +16,7 @@ You can also set up connect using Ecoball automatic connection, follow the steps
 
 #### **2. ImToken – Automatic Set Up**
 
-You may also set up Ecoball connection using automatic set up, go to _**Browser → Enter link: **_https://scan.ecoball.org/validators_** → Add EcoBall Chain:**_
+You may also set up Ecoball connection using automatic set up, go to _**Browser → Input **_https://scan.ecoball.org/validators_** → Add EcoBall Chain:**_
 
 ![step 1](../.gitbook/assets/A1.jpg) ![step 2](<../.gitbook/assets/A3 (1).jpg>) ![step 3](../.gitbook/assets/A4.jpg) ![step 4](<../.gitbook/assets/A5 (1).jpg>)
 

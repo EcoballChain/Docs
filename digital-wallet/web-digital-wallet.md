@@ -19,7 +19,7 @@ Once you click ‘Custom RPC’, MetaMask wallet will ask for network informatio
 
 Save.
 
-Once you save the network, you may check your connectivity by going to Ecoball validators page and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
+After you save the network info, you may check your connectivity by going to Ecoball [validators page](https://scan.ecoball.org/validators) and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
 
 ![](<../.gitbook/assets/1 (1).PNG>)
 
