@@ -2,37 +2,35 @@
 
 Ecoball is an advanced blockchain developed with innovations. With 5 years of consistent research and development, Ecoball is now ready to support a large ecosystem, and its foundation is built with a sustainable economic model and a community-driven governance model. Such integration makes Ecoball a true decentralization particularly suitable for demanding Dapps in DeFi, NFT, DAO etc.
 
-Ecoball is engineered with a hybrid consensus algorithm, a dynamic multi-chain mechanism and a fast cross-chain communication mechanism, making the network high-performance and highly scalable.
-
 ### Ecosystem
 
-The Ecoball ecosystem is backed up by a composition of Dapp operating system, ECO tokenomics model, community autonomy model, and the network cloud system.  The mechanics make Ecoball a trustworthy layer for Dapps
+The Ecoball ecosystem is designed with a composition of the Dapp operating system, the ECO tokenomics model, the community autonomy model, and the network cloud system. The formula  makes Ecoball a powerful engine for applications, Dapps' usability gets improved to the next dimension, mass adoption becomes real.
 
 ### Features
 
 **Vote Proof of Stake**
 
-Vote Proof of Stake (VPOS) extends the POS model to allow additional individuals to stake their tokens on potential validators (candidates), without participating in block production themselves. Candidates who collect a higher percentage of tokens have greater odds of becoming validators on the network. Rewards are then divided amongst the validators and the staking entities (Voters).
+Vote Proof of Stake (VPOS) extends the POS model to allow individuals to stake tokens on potential validators (candidates). Candidates who collect most tokens have greater opportunities of being elected to be validators. Once blocks are successfully created, rewards will be shared by the validators and the staking entities (Voters).
 
 **Decentralized Autonomous Organization (DAO)**
 
-DAO is a smart contract algorithm.All financial transactions, rules, and decisions are enacted and stored on the blockchain, creating a transparent and verifiable record. Rules are initially set forth in smart contracts, and members (participating token holders) interact according to these regulations to further the goals of the organization.
+DAO is a smart contract algorithm. All financial transactions, rules, and decisions are enacted and stored on the blockchain, creating a transparent and verifiable record. Rules are initially set forth in smart contracts, and members (participating token holders) act according to the rules to further the goals of the organization.
 
-**Ultra-low handling fee and ultra-high TPS**
+**Low processing fee and high TPS**
 
-VPOSDOA verifies transactions and confirms transactions with high speed, low cost and high efficiency. Compared with the expensive gas cost of Ethereum, the gas cost of Ecoball is almost negligible. TPS can reach 100000+.
+The VPoSDAO (VPS+DAO) model verifies transactions and confirms transactions with high speed, low cost and high efficiency. Compared with the expensive gas fee of Ethereum, the gas fee of Ecoball is almost negligible, meanwhile TPS can go over 100,000.
 
-**Higher Security and Scalability**
+**High Security and Scalability**
 
-The VPOSDOA algorithm is used to effectively prevent various attacks. Please refer to the technical documentation for details. Excellent low-level technical architecture design, with strong scalability, easy to build upper-level applications.
+The VPoSDAO algorithm helps to prevent various attacks.  Excellent low-level technical architecture design, with strong scalability, easy to build upper-level applications. Find out the how-so details in the technical document.
 
 **Native support for cross-chain protocols**
 
-It natively supports cross-chain, and is committed to connecting all assets in the blockchain world, so that everyone can enjoy a free, efficient and smooth transaction experience.
+Native cross-chain mechanism is supported and it is committed to connect all assets in the blockchain, making a vision that everyone can enjoy a free, efficient and smooth transaction experience.
 
 **Compatible with Ethereum and Ecological Applications**
 
-EcoBall is fully compatible with the Ethereum EVM. It supports Solidity to write smart contracts, the issuance of digital assets, various DEFI applications, and can seamlessly migrate EVM-compatible DEFI applications to the Ecoball public chain.
+EcoBall is fully compatible with the Ethereum EVM. It supports Solidity to write smart contracts, the issuance of digital assets, various DeFi applications, and can seamlessly migrate EVM-compatible DeFi applications to the Ecoball chain.
 
 ### Why Ecoball? <a href="why-ecoball" id="why-ecoball"></a>
 
