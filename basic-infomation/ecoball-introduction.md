@@ -1,24 +1,14 @@
 # Introduction
 
-**This article explains what Ecoball is, why you should use it, and how to participate in the Ecoball networks.**
-
 ## What is Ecoball? <a href="what-is-ecoball" id="what-is-ecoball"></a>
 
-Blockchain was first applied in the Bitcoin system, and the term 'blockchain' was officially defined later in the development process.&#x20;
+Ecoball is an advanced blockchain developed with innovations. With 5 years of consistent R\&D, Ecoball is now ready to support a large ecosystem, and its foundation is built with a sustainable economic model and a community-driven governance model. Such integration makes Ecoball particularly suitable for demanding Dapps in DeFi, NFT, DAO etc.
 
-Thereafter, numerous attempts has been made on bringing blockchain to real life by building Dapps.
+Ecoball is engineered with a hybrid consensus algorithm, a dynamic multi-chain mechanism and a fast cross-chain communication mechanism, making the network high-performance and highly scalable.
 
-However, after years of development, Dapps are not yet been massively adopted. And the major reason is that the current Dapps are built on blockchains that are incapable of processing large scale transactions.
+its unique breakthroughs and innovations in technical fields such as cross-chain communication, concurrent processing, distributed storage, and blockchain network system architecture, it can fundamentally solve the constraints the four major problems in the development of blockchain truly realizing large-scale commercial engineering applications of blockchain and meet the needs of blockchain DAPP applications in different scenarios.
 
-In this context, the EcoBall blockchain operating system came into being.
-
-Blockchain is a comprehensive application model consist of technologies such as distributed data storage, point-to-point transmission, consensus mechanism and encryption algorithm, etc. This combination of technologies gives blockchain the characteristics of decentralization, tamper-proof, openness, transparency and joint maintenance.&#x20;
-
-Because of its characteristic, pioneers realize blockchain can help in solving the trust issue between people and relieve people from the privacy concern caused by internet giants.
-
-Ecoball is a technologically advanced blockchain operating system. Because of its unique breakthroughs and innovations in technical fields such as cross-chain communication, concurrent processing, distributed storage, and blockchain network system architecture, it can fundamentally solve the constraints the four major problems in the development of blockchain truly realizing large-scale commercial engineering applications of blockchain and meet the needs of blockchain DAPP applications in different scenarios.
-
-The Ecoball ecosystem is composed of Ecoball operating system, Ecoball token economic system, community autonomy model, Ecoball blockchain network cloud system, and many Ecoball blockchain Dapp systems, etc., which are used to build a trustworthy value interconnection of human society.
+The Ecoball ecosystem is composed of Ecoball operating system, Ecoball tokenomic system, community autonomy model, Ecoball blockchain network cloud system, and many Ecoball blockchain Dapp systems, etc., which are used to build a trustworthy value interconnection of human society.
 
 To overcome several major challenges brought by blockchain business, Ecoball has independently developed a hybrid consensus algorithm that takes into account fairness and efficiency, multi-chain dynamic integration, and extremely fast cross-chain message routing mechanisms, etc., to build high-performance and highly scalable blockchain operating system platform.
 

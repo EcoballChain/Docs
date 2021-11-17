@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Basic infomation](basic-infomation/README.md)
+* [About Ecoball](basic-infomation/README.md)
   * [Introduction](basic-infomation/ecoball-introduction.md)
   * [Consensus mechanism](basic-infomation/consensus-mechanism.md)
   * [Token - ECO](basic-infomation/token-special-topic.md)
