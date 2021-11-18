@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
-* [About Ecoball](basic-infomation/README.md)
+* [About Ecoball](README.md)
   * [Introduction](basic-infomation/ecoball-introduction.md)
   * [Design](basic-infomation/design.md)
   * [Features](basic-infomation/features.md)
@@ -25,6 +24,7 @@
   * [Blockchain Node](for-validators/blockchain-node/README.md)
     * [Deploy Node](for-validators/blockchain-node/deploy-node.md)
 * [For Developers](development/README.md)
+  * [Technicals](development/technicals.md)
   * [Web3.js](development/web3.js.md)
   * [Ethers.js](development/ethers.js.md)
   * [web3js](development/web3js/README.md)

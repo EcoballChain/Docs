@@ -1,4 +1,4 @@
-# Overview
+# About Ecoball
 
 Welcome, pioneers.
 
@@ -13,9 +13,3 @@ Thereafter, numerous attempts has been made on bringing blockchain to real life 
 However, after years of development, Dapps are not yet been massively adopted. And the major reason is that the current Dapps are built on blockchains that are incapable of processing large scale transactions.
 
 In this context, the Ecoball chain came into being.
-
-
-
-
-
-​

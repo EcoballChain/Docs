@@ -1,34 +1,26 @@
+---
+description: Ecoball ecosystem is large, but can grow sustainably.
+---
+
 # Ecosystem
 
-The Ecoball ecosystem is composited with multipls technologies like the Dapp operating system, the ECO tokenomics model, the community autonomy model and the network cloud system. The formula makes Ecoball a powerful engine for applications, Dapps' usability gets improved to the next dimension, mass adoption is made possible.
-
-#### Smart contract platform <a href="smart-contract-platform" id="smart-contract-platform"></a>
-
-Smart contracts are codes that automatically process business logic on the blockchain, which can effectively reduce the cost of trust in business transactions, help promote the establishment and development of a new generation of business models, and provide important technical guarantees for people to enter the intelligent era. The smart contract of the EcoBall blockchain is fully compatible with Ethereum, and the smart contract code written for Ethereum can be easily transplanted.
-
-#### DAPP development platform <a href="dapp-development-platform" id="dapp-development-platform"></a>
-
-As a decentralized application platform, the EcoBall blockchain can carry a large number of decentralized applications, including the currently popular Decentralized Finance (Defi). EcoBall provides developers with a variety of programming interfaces to develop DAPP, including RESTful API and SDK for various major programming languages.
-
-#### Across-chain bridge <a href="across-chain-bridge" id="across-chain-bridge"></a>
-
-Cross-chain bridge can realize the transfer and exchange of different blockchain assets, greatly accelerate the circulation scope and velocity of digital assets, and effectively promote the prosperity and prosperity of blockchain ecology. Cross-chain bridge is an important infrastructure in the age of value Internet. EcoBall blockchain has a built-in cross-chain bridge, which assumes the important responsibility of cross-chain operation.
+The Ecoball ecosystem is composited with multiples systems like the Dapp operating system, the ECO tokenomics model, the community autonomy model and the network cloud system. The formula makes Ecoball a powerful engine for applications, Dapps' usability gets improved to the next dimension, mass adoption is made possible.
 
 ### On-chain applications
 
 #### Decentralized Exchange (DEX) <a href="decentralized-exchange-dex" id="decentralized-exchange-dex"></a>
 
-At this stage, most decentralized exchanges mainly run on Ethereum, which is limited by the congestion, low concurrency, and high gas fees of the Ethereum public chain, which makes the existing DEX user experience very unfriendly. EcoBall uses a flexible and elastically consensus mechanism to allow developers to build a safe and efficient DEX with fast transaction speed and low transaction fees. For example, the HotpotDex.com decentralized exchange that has been built on EcoBall uses some optimization algorithms to reduce the problem of impermanence caused by the automatic market maker (AMM) mechanism. The screenshot below is the implementation of this decentralized exchange algorithm.
+Today, most decentralized exchanges run on Ethereum, and they are limited by the congestion, low concurrency, and high gas fees. The DEX user experience is somewhat unsatisfying. Ecoball uses a flexible and elastically consensus mechanism to allow developers to build an efficient DEX with fast transaction speed and low transaction fees. For example, the Ecoball built-on DEX Exabc.xyz uses optimization algorithms to reduce the problem of impermanence.
 
 #### Mortgage loan <a href="mortgage-loan" id="mortgage-loan"></a>
 
-In the traditional financial field, mortgage loans is a very common financial product. We can mortgage houses, cars, and even goods, and ask a professional appraisal agency to make an appraisal, and then use this appraisal as the basis for borrowing money. Mortgage loans have always been regarded as relatively safe financial loans because financial institutions can sell the collateral once the borrower fails to repay the money.
+In DeFi space, a model of mortgage has emerged: cryptocurrency mortgage. If users want to borrow 100 US dollars, they shall transfer at least 150 US dollars worth of cryptocurrency to the platform to lock, after which the system will automatically release the funds. Compared with the traditional mortgage loan model, digital currency mortgage has unique advantages in terms of operating costs.
 
-In recent years, in the field of digital currency, a new model has also emerged: digital currency mortgage lending. If users want to borrow 100 US dollars, they shall transfer at least 150 US dollars worth of digital currency to the platform to lock, after which the system will automatically release the funds. Compared with the traditional mortgage loan model, digital currency mortgage has unique advantages in terms of operating costs.
+Traditionally, to mortgage a house, the agency needs to verify the house ownership and evaluate the property value. If the borrower defaults, the agency will bear the costs of manpower and time to auction the property. The same is true for other mortgages.&#x20;
 
-For example, to mortgage a house, the platform needs to verify whether the borrower is the real owner of the property and evaluate the property value. Once the borrower is unable to repay the loan, the platform will also need to bear the costs of manpower and time to auction the property. The same is true for mortgaged cars. The financial institution has to find a garage to store the cars, and cars have to be auctioned at a later time. These traditional financial mortgage processes are very long and costly. As a digital currency lending platform, there is no need to face these problems. When a digital currency worth $150 is about to fall below $100, the platform will sell the currency. From this point of view, the platform will not lose money at all, and this model is almost risk-free.
+As in a cryptocurrency lending platform, when a cryptocurrency worth of $150 is about to fall below $100, the platform will sell the cryptocurrency to not lose money. This model is considered risk-free.
 
-These digital currency mortgage lending platforms, like traditional mortgage lending, also rely on interest to make money. At present, the annualized interest rate of this industry is about 10%, and the rate of return is still very attractive.
+However, these cryptocurrency mortgage lending platforms, like traditional mortgage lending, also rely on interest to make money. At present, the annualized interest rate of this industry is about 10%, and the rate of return is quite attractive.
 
 #### Decentralized insurance <a href="decentralized-insurance" id="decentralized-insurance"></a>
 
