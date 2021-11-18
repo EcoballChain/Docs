@@ -6,7 +6,7 @@ Ecoball chain supports MetaMask and ImToken on mobile, please go to their offici
 
 We recommend you to set up your wallet using automatic set up. However, you may also set up your mobile wallet in a manual way.
 
-#### **1. MetaMask – Automatic Set Up**
+#### **1. MetaMask – Automatic Setup**
 
 You can also set up connect using Ecoball automatic connection, follow the steps:_ **My Account → Browser → Search → Input **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ ‘Add EcoBall Chain’**_
 
@@ -14,13 +14,13 @@ You can also set up connect using Ecoball automatic connection, follow the steps
 
 ![step 5](../../.gitbook/assets/A6.jpg) ![step 6](../../.gitbook/assets/A7.jpg)
 
-#### **2. ImToken – Automatic Set Up**
+#### **2. ImToken – Automatic Setup**
 
 You may also set up Ecoball connection using automatic set up, go to _**Browser → Input **_https://scan.ecoball.org/validators_** → Add EcoBall Chain:**_
 
 ![step 1](../../.gitbook/assets/A1.jpg) ![step 2](<../../.gitbook/assets/A3 (1).jpg>) ![step 3](../../.gitbook/assets/A4.jpg) ![step 4](<../../.gitbook/assets/A5 (1).jpg>)
 
-#### **3. MetaMask – Manual Set Up**
+#### **3. MetaMask – Manual Setup**
 
 On your mobile app, go to _**My Account → Settings → Networks → Add Network**_, then enter below information accordingly:
 
@@ -35,7 +35,7 @@ On your mobile app, go to _**My Account → Settings → Networks → Add Networ
 
 ****
 
-**4. ImToken – Manual Set Up**
+**4. ImToken – Manual Setup**
 
 On your mobile ImToken app, go to _**My Profile → Settings → Node Settings → Ethereum → ‘+’ → Customize**_, then enter below information:
 

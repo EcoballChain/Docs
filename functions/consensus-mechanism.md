@@ -8,7 +8,7 @@ Ecoball implemented a new consensus model: VPoSDAO, a Vote Proof of Stake (VPoS)
 
 ## Vote Proof of Stake <a href="vote-proof-of-stake" id="vote-proof-of-stake"></a>
 
-Vote Proof of Stake (VPoS) extends the PoS model to allow individuals to stake their tokens on potential validators (candidates), without participating in block production themselves. Candidates who collect a most tokens have greater chance of becoming validators. Mining rewards are then divided by the validators and the staking entities (voters).
+Vote Proof of Stake (VPoS) extends the PoS model to allow individuals to stake tokens on candidates (potential validators). Candidates who collect most tokens have greater chance of becoming validators. Mining rewards are then divided by the validators and the staking entities (voters).
 
 VPoS provides the opportunity for voters to stake(vote) on potential validators by staking tokens on them. Candidates are incentivized to maintain a good reputation in order to attract voters and increase their chances of becoming validators.
 
