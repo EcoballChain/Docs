@@ -1,12 +1,18 @@
-# Assert cross chain
+# Bridge
 
 The EcoBridge cross-chain Bridge provides the ability to interact with assets and data between external blockchains and Ecoball blockchains, allowing users to transfer assets between EVM compatible chains. Cross-chain Bridges provide fast and secure connections between EVM-compliant blockchains, providing scalability and interoperability.
 
 EcoBridge currently supports cross-chain from Ethereum to Ecoball. Here's how the Ethereum Testnet Georli crosses chain to the Ecoball testnet chain.
 
-To use the bridge function, you must first install a web-based digital wallet. For details, see [Web digital wallet](../digital-wallet/web-digital-wallet.md).
+### Design
 
-1）Open the chain bridge page：[https://bridge.ecoball.org/](https://bridge.ecoball.org/)。By default, the page for connecting to the wallet is displayed, as shown in the following figure：
+![](../.gitbook/assets/bridge.png)
+
+### Use
+
+To use the bridge function, you must first install a web-based digital wallet. For details, see [Web digital wallet](../for-users/digital-wallet/web-digital-wallet.md).
+
+1）Open the chain bridge page：[https://bridge.ecoball.org/](https://bridge.ecoball.org)。By default, the page for connecting to the wallet is displayed, as shown in the following figure：
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-01.png)
 
@@ -43,4 +49,3 @@ To use the bridge function, you must first install a web-based digital wallet. F
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-09.png)
 
 After sufficient block confirmations, the tokens on the original chain are converted into tokens on the target chain.
-

@@ -1,14 +1,13 @@
-# Basic infomation
+# About Ecoball
 
 Here are the articles in this section:
 
 [Ecoball introduction](ecoball-introduction.md)
 
-[Token special topic](token-special-topic.md)
+[Token special topic](../functions/token-special-topic.md)
 
-[Consensus mechanism](consensus-mechanism.md)
+[Consensus mechanism](../functions/consensus-mechanism.md)
 
-[Blockchain explorer](blockchain-explorer.md)
+[Blockchain explorer](../functions/blockchain-explorer.md)
 
-[Ecological application](ecological-application.md)
-
+[Ecological application](broken-reference)

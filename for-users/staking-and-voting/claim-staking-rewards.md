@@ -6,6 +6,6 @@ The reward cycle breakdown: T (staking cycle, current block creation cycle), T+1
 
 To make sure your rewards will be compounded in your stake and registered in the next block generating and rewarding cycle, you must claim rewards by yourself:
 
-![claim rewards](../.gitbook/assets/rewardclaim.PNG)
+![claim rewards](../../.gitbook/assets/rewardclaim.PNG)
 
-![choose pool to claim from](../.gitbook/assets/photo\_2021-11-09\_13-52-24.jpg)
+![choose pool to claim from](../../.gitbook/assets/photo\_2021-11-09\_13-52-24.jpg)

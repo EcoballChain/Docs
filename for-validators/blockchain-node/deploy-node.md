@@ -37,7 +37,7 @@ The downloaded software usually does not have executable permissions, so it is n
 
 > chmod +x ecoball
 
-![node directory structure](../.gitbook/assets/node-install-ecoball-en.png)
+![node directory structure](../../.gitbook/assets/node-install-ecoball-en.png)
 
 In addition, the corresponding configuration needs to be performed according to the instructions of the README.md file. Follow below steps for configuration:
 
@@ -63,11 +63,11 @@ A password prompt appears. Enter the wallet password twice to generate a wallet 
 
 Write down your wallet address and password, keep them safe.
 
-![create wallet on the node](../.gitbook/assets/node-create-wallet-en.png)
+![create wallet on the node](../../.gitbook/assets/node-create-wallet-en.png)
 
 After the wallet is created, the system automatically creates a data directory in the current directory, which contains the keys/espuma/directory structure. The following is the keystore file of the wallet. For asset security, it is recommended that this file be backed up and stored properly.
 
-![wallet keystore file](../.gitbook/assets/node-wallet-keystore-en.png)
+![wallet keystore file](../../.gitbook/assets/node-wallet-keystore-en.png)
 
 ### Create a password file <a href="create-a-password-file" id="create-a-password-file"></a>
 
@@ -77,7 +77,7 @@ create a password file.
 
 Then enter the password you created early along with wallet creation above. Save and exit.
 
-![wallet password file](../.gitbook/assets/node-wallet-passwd-en.png)
+![wallet password file](../../.gitbook/assets/node-wallet-passwd-en.png)
 
 ### Modify the startup configuration file <a href="modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
 
@@ -85,7 +85,7 @@ Then enter the password you created early along with wallet creation above. Save
 
 The initial value of the node configuration file:
 
-![initial node config](../.gitbook/assets/node-config-init.png)
+![initial node config](../../.gitbook/assets/node-config-init.png)
 
 Modify following parameters according to the instructions in the README.md file:
 
@@ -95,7 +95,7 @@ Modify following parameters according to the instructions in the README.md file:
 
 Save and exit. The modified configuration file is as follows:
 
-![modified node config](../.gitbook/assets/node-config-modify.png)
+![modified node config](../../.gitbook/assets/node-config-modify.png)
 
 ## Launch node software to console <a href="launch-node-software-to-console" id="launch-node-software-to-console"></a>
 
@@ -103,7 +103,7 @@ Execute the following command to enter the console. If there is any error in the
 
 > ./ecoball --config config.toml
 
-![node run](../.gitbook/assets/node-run-validator.png)
+![node run](../../.gitbook/assets/node-run-validator.png)
 
 ## Launch validator node software to background <a href="launch-validator-node-software-to-background" id="launch-validator-node-software-to-background"></a>
 
@@ -115,7 +115,7 @@ If you need to monitor real-time logs, you can run the following command:
 
 > tail -f ecoball.log
 
-![node monitor](../.gitbook/assets/node-run-log.png)
+![node monitor](../../.gitbook/assets/node-run-log.png)
 
 ## Running in Windows 10 environment <a href="running-in-windows-10-environment" id="running-in-windows-10-environment"></a>
 
@@ -125,15 +125,15 @@ Users can first find the Microsoft Store on Windows 10, and then search “Linux
 
 Search for Linux to find and install Ubuntu:
 
-![Search for Linux to find and install Ubuntu](../.gitbook/assets/node-install-ubuntu.png)
+![Search for Linux to find and install Ubuntu](../../.gitbook/assets/node-install-ubuntu.png)
 
 If Ubuntu is installed, you can start it from this screen:
 
-![Start Ubuntu from search result screen](../.gitbook/assets/node-start-ubuntu.png)
+![Start Ubuntu from search result screen](../../.gitbook/assets/node-start-ubuntu.png)
 
 The next time you want to use ubuntu, you don't need to open the Microsoft Store. You can start Ubuntu directly from the menu bar:
 
-![Start Ubuntu from the menu bar](../.gitbook/assets/node-run-ubuntu.png)
+![Start Ubuntu from the menu bar](../../.gitbook/assets/node-run-ubuntu.png)
 
 ## Become a validation node <a href="become-a-validation-node" id="become-a-validation-node"></a>
 

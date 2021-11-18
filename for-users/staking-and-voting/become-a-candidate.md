@@ -6,8 +6,8 @@ Before you apply to be a candidate, you will need to set up your node first to o
 
 Instruction on how to set up a node is down at the bottom of the page ‘Join Ecoball node’: [https://scan.ecoball.org/validators](https://espuma-scan.ecoball.org/validators)
 
-![click  ‘Join Ecoball node’](../.gitbook/assets/111.png)
+![click  ‘Join Ecoball node’](../../.gitbook/assets/111.png)
 
 After your node set up, you may click ‘+ Become a Candidate’ on [https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) and enter your node information:
 
-![enter your node info](../.gitbook/assets/112.png)
+![enter your node info](../../.gitbook/assets/112.png)
