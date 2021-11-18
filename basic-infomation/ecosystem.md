@@ -12,7 +12,7 @@ The Ecoball ecosystem is composited with multiples systems like the Dapp operati
 
 Today, most decentralized exchanges run on Ethereum, and they are limited by the congestion, low concurrency, and high gas fees. The DEX user experience is somewhat unsatisfying. Ecoball uses a flexible and elastically consensus mechanism to allow developers to build an efficient DEX with fast transaction speed and low transaction fees. For example, the Ecoball built-on DEX Exabc.xyz uses optimization algorithms to reduce the problem of impermanence.
 
-#### Mortgage loan <a href="mortgage-loan" id="mortgage-loan"></a>
+#### Mortgage Loan <a href="mortgage-loan" id="mortgage-loan"></a>
 
 In DeFi space, a model of mortgage has emerged: cryptocurrency mortgage. If users want to borrow 100 US dollars, they shall transfer at least 150 US dollars worth of cryptocurrency to the platform to lock, after which the system will automatically release the funds. Compared with the traditional mortgage loan model, digital currency mortgage has unique advantages in terms of operating costs.
 
@@ -22,25 +22,23 @@ As in a cryptocurrency lending platform, when a cryptocurrency worth of $150 is 
 
 However, these cryptocurrency mortgage lending platforms, like traditional mortgage lending, also rely on interest to make money. At present, the annualized interest rate of this industry is about 10%, and the rate of return is quite attractive.
 
-#### Decentralized insurance <a href="decentralized-insurance" id="decentralized-insurance"></a>
+#### Decentralized Insurance <a href="decentralized-insurance" id="decentralized-insurance"></a>
 
-The DeFi platform mainly provides decentralized insurance services in the two forms of mutual insurance and financial derivatives. It is an insurance agreement based on smart contracts that cannot be tampered with and is enforced automatically. It mainly targets common risk events in the token circle (including private keys Theft, exchanges are attacked, wallets are stolen, smart contracts have vulnerabilities and are manipulated) to provide risk protection.
+Decentralized insurance services are enabled in the forms of mutual insurance and financial derivatives. It is enforced automatically and cannot be tampered with. Common risk events in the token circle such as including private keys theft, cyber attack, stolen wallet and smart contracts manipulation can be insured.
 
-#### Algorithmic stablecoin <a href="algorithmic-stablecoin" id="algorithmic-stablecoin"></a>
+#### Algorithmic Stablecoin <a href="algorithmic-stablecoin" id="algorithmic-stablecoin"></a>
 
-Algorithmic stable currency is also called unsecured stable currency. It has no collateral and directly issues token through a smart contract imitating the central bank. Issuers claim that the stable currency issued is worth 1 U.S. dollar, so that the market has an expected price for this. When the currency price rises, through additional issuance, the price drops to 1 U.S. dollar. When the price of the currency fell, the supply of stablecoins was recovered through the issuance of "bonds", and the price rose to $1.
+Algorithmic stablecoin, also known as unsecured stablecoin, imitating the central bank, it has no collateral and it is directly issued through a smart contract. Issuers claim that the stablecoin is fixed at 1:1 ratio to US dollar in value. When the coin price goes beyond that ratio, issuers will issue additional coins to decrease the price back to the ratio. When the price of the currency falls below, the supply of stablecoins is retracted through the issuance of 'bonds to maintain the ratio.
 
-#### Non-Fungible Token(NFT) <a href="non-fungible-token-nft" id="non-fungible-token-nft"></a>
+#### Non-Fungible Token (NFT) <a href="non-fungible-token-nft" id="non-fungible-token-nft"></a>
 
 Non-Fungible Token NFT (Non-Fungible Token) has the characteristics of indivisible, irreplaceable, and unique. It provides a way to mark the ownership of native digital assets (that is, assets that exist in the digital world or originate from the digital world). ). The ownership can exist outside the centralized service or centralized library. The non-Fungible and inseparable nature of NFT makes it possible to bind to some commodities in the real world and issue digital assets on the blockchain. This asset can be game items, digital artwork, identity certificates, Tickets, domain names, etc..These tokens are unique and non-copyable. Since NFT has natural collection attributes and is convenient for trading, crypto artists can use NFT to create unique digital artworks.
 
 #### Distributed Computing and Storage <a href="distributed-computing-and-storage" id="distributed-computing-and-storage"></a>
 
-The distributed computing and storage market is large, and the computing, transmission and storage of massive amounts of data is huge rigid market demand. According to the "Data Age 2025" released by the International Data Corporation (IDC), the global annual data will increase from 33ZB (1ZB=10 trillion bytes) in 2018 to 175ZB, which is equivalent to 491EB (1EB=1.1529) per day. e+18 bytes) data.
+The computing, transmission and storage of massive amounts of data is huge market. According to the 'Data Age 2025' released by the International Data Corporation (IDC), the global annual data will increase from 33ZB (1ZB=10 trillion bytes) in 2018 to 175ZB, which is equivalent to 491EB (1EB=1.1529) per day. e+18 bytes) data.
 
-EcoBall Distributed Computing Storage System (EcoBall File System, EcoFS), is a decentralized P2P distributed file system by technical architecture, it is the next generation of distributed shared blockchain storage system evolved from IPFS and FileCoin; As for the economic model is concerned, EcoFS is a shared distributed cloud platform and economy. It is composed and owned by every user. Just like the arrival of the Internet and 5G, more and more data is generated by individuals, allowing users to become the main body of the sharing economy. EcoBall incentive mechanism and the dual engine of the cloud service platform allows users to enjoy consumer applications and contribute incentive dividends in the blockchain era.
-
-EcoFS, with its technological leadership and applicability, can shoulder the important task of blockchain distributed storage technology standards and product ecological builders.
+Ecoball Distributed Computing Storage System (Ecoball File System, EcoFS), is a decentralized P2P distributed file system. It is the evolved version of IPFS and FileCoin, composed and owned by every user. Ecoball incentive mechanism and the dual engine of the cloud service platform allows users to enjoy consumer applications and contribute incentive dividends.
 
 ## How to join the Ecoball ecosystem? <a href="how-to-join-the-ecoball-ecosystem" id="how-to-join-the-ecoball-ecosystem"></a>
 
