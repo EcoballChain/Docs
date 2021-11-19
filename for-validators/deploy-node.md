@@ -37,7 +37,7 @@ The downloaded software usually does not have executable permissions, so it is n
 
 > chmod +x ecoball
 
-![node directory structure](../../.gitbook/assets/node-install-ecoball-en.png)
+![node directory structure](../.gitbook/assets/node-install-ecoball-en.png)
 
 In addition, the corresponding configuration needs to be performed according to the instructions of the README.md file. Follow below steps for configuration:
 
@@ -63,21 +63,21 @@ A password prompt appears. Enter the wallet password twice to generate a wallet 
 
 Write down your wallet address and password, keep them safe.
 
-![create wallet on the node](../../.gitbook/assets/node-create-wallet-en.png)
+![create wallet on the node](../.gitbook/assets/node-create-wallet-en.png)
 
 After the wallet is created, the system automatically creates a data directory in the current directory, which contains the keys/espuma/directory structure. The following is the keystore file of the wallet. For asset security, it is recommended that this file be backed up and stored properly.
 
-![wallet keystore file](../../.gitbook/assets/node-wallet-keystore-en.png)
+![wallet keystore file](../.gitbook/assets/node-wallet-keystore-en.png)
 
 ### Create a password file <a href="create-a-password-file" id="create-a-password-file"></a>
 
-create a password file.
+Create a password file.
 
 > vim passwd.txt
 
 Then enter the password you created early along with wallet creation above. Save and exit.
 
-![wallet password file](../../.gitbook/assets/node-wallet-passwd-en.png)
+![wallet password file](../.gitbook/assets/node-wallet-passwd-en.png)
 
 ### Modify the startup configuration file <a href="modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
 
@@ -85,7 +85,7 @@ Then enter the password you created early along with wallet creation above. Save
 
 The initial value of the node configuration file:
 
-![initial node config](../../.gitbook/assets/node-config-init.png)
+![initial node config](../.gitbook/assets/node-config-init.png)
 
 Modify following parameters according to the instructions in the README.md file:
 
@@ -95,19 +95,19 @@ Modify following parameters according to the instructions in the README.md file:
 
 Save and exit. The modified configuration file is as follows:
 
-![modified node config](../../.gitbook/assets/node-config-modify.png)
+![modified node config](../.gitbook/assets/node-config-modify.png)
 
 ## Launch node software to console <a href="launch-node-software-to-console" id="launch-node-software-to-console"></a>
 
-Execute the following command to enter the console. If there is any error in the configuration file, the program cannot be started normally, and error message will appear; if there is no error in the configuration file, it will start normally, and you can observe the scrolling of the interface characters:
+Execute the following command to enter the console. If there is any error in the configuration file, the program will not run normally, and an error message will appear; if there is no error in the configuration file, you will be able to see the interface scrolling:
 
 > ./ecoball --config config.toml
 
-![node run](../../.gitbook/assets/node-run-validator.png)
+![node run](../.gitbook/assets/node-run-validator.png)
 
 ## Launch validator node software to background <a href="launch-validator-node-software-to-background" id="launch-validator-node-software-to-background"></a>
 
-Launch the node software to run in the background, and output the log to the log file. It will not be closed because the console is closed or disconnected. The following operations are required:
+Launch the node software to run in the background, and output the log to the log file. It will not be closed even if the console is closed or disconnected. The following operations are required:
 
 > nohup ./ecoball --config config.toml >ecoball.log 2>&1 &
 
@@ -115,29 +115,31 @@ If you need to monitor real-time logs, you can run the following command:
 
 > tail -f ecoball.log
 
-![node monitor](../../.gitbook/assets/node-run-log.png)
+![node monitor](../.gitbook/assets/node-run-log.png)
 
 ## Running in Windows 10 environment <a href="running-in-windows-10-environment" id="running-in-windows-10-environment"></a>
 
-At present, there is only Linux version of the node program. If the user does not have a Linux computer and needs to test under Windows, he must install the Linux running environment on Windows. Windows10 is recommended here, because the Linux subsystem is native supported. You can play Linux directly on Windows 10, without the need for a separate installation of software like a virtual machine.
+For now, there is only Linux version of the node program. If you do not have a Linux computer, Windows 10 could also work, a Linux running environment on Windows 10 will be required. Since the Linux subsystem is natively supported in Windows 10, you can run Linux directly on Windows 10, without the need for a separate installation of software like a virtual machine.
 
-Users can first find the Microsoft Store on Windows 10, and then search “Linux” in the App Store. There are many versions that will appear. The recommended version is Ubuntu 20.04 LTS. If you have a Linux system installed, everything will work the same.
+Users can first find the Microsoft Store on Windows 10, and then search 'Linux' in the App Store. Here we recommend the Ubuntu 20.04 LTS version.
 
 Search for Linux to find and install Ubuntu:
 
-![Search for Linux to find and install Ubuntu](../../.gitbook/assets/node-install-ubuntu.png)
+![Search for Linux to find and install Ubuntu](../.gitbook/assets/node-install-ubuntu.png)
 
-If Ubuntu is installed, you can start it from this screen:
+Once Ubuntu is installed, run it:
 
-![Start Ubuntu from search result screen](../../.gitbook/assets/node-start-ubuntu.png)
+![Start Ubuntu from search result screen](../.gitbook/assets/node-start-ubuntu.png)
 
-The next time you want to use ubuntu, you don't need to open the Microsoft Store. You can start Ubuntu directly from the menu bar:
+The next time you use Ubuntu, you can run Ubuntu directly from the menu bar:
 
-![Start Ubuntu from the menu bar](../../.gitbook/assets/node-run-ubuntu.png)
+![Start Ubuntu from the menu bar](../.gitbook/assets/node-run-ubuntu.png)
 
-## Become a validation node <a href="become-a-validation-node" id="become-a-validation-node"></a>
+Every other setup steps are the same as the ones for Linux system.
 
-Once the node software is installed, deployed and up and running, it is a normal node, synchronizing node data and validate transactions normally. However, normal nodes cannot generate blocks. In order to generate blocks, they must become validation nodes. At the current stage, to become a validation node, you must state 500,000 ECO. For details on the operation process, see [the staking topic](https://stakingspec.md).
+### Become a validation node <a href="become-a-validation-node" id="become-a-validation-node"></a>
+
+Once the node software is installed, deploy and run, it is a normal node, synchronizing node data and validate transactions normally. However, normal nodes cannot generate blocks. In order to generate blocks, they must become validation nodes. At the current stage, to become a validation node, you must state 500,000 ECO. Learn more at [the staking topic](https://stakingspec.md).
 
 ## Node Hardware Configuration <a href="node-hardware-configuration" id="node-hardware-configuration"></a>
 
@@ -161,7 +163,7 @@ Only the core configuration of the node server is listed below:
 * Hard disk: 2T
 * Bandwidth: 20M to 100M
 
-**The verification node recommends this recommended configuration to perform tasks such as synchronizing data, validating transactions, generating blocks, and so on.**
+**The verification node are recommended the above configuration to perform tasks such as synchronizing data, validating transactions, generating blocks, and so on.**
 
 ## Basic commands <a href="basic-commands" id="basic-commands"></a>
 

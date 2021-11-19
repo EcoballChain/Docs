@@ -6,7 +6,7 @@ description: Ecoball is designed with VPoS, DAO and a multi-layer mechanism
 
 **Vote Proof of Stake**
 
-Vote Proof of Stake (VPoS) extends the PoS model to allow individuals to stake tokens on potential validators (candidates). Candidates who collect most tokens have greater opportunities of being elected to be validators. Once blocks are successfully created, rewards will be shared by the validators and the staking entities (Voters).
+Vote Proof of Stake (VPoS) extends the PoS model to allow individuals to stake tokens on potential validators (candidates). Candidates who collect most tokens have greater opportunities of being elected to be validators. Once blocks are successfully created, rewards will be shared by the validators and the staking entities (voters).
 
 **Decentralized Autonomous Organization (DAO)**
 

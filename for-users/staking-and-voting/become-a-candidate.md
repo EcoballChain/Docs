@@ -1,6 +1,6 @@
 # Become a Candidate
 
-If you hold more than 500K ECO, you have the choice to become a candidate (who may be elected to be a validator).&#x20;
+If you hold more than 500,000 ECO, you have the choice to become a candidate (who may be elected to be a validator).&#x20;
 
 Before you apply to be a candidate, you will need to set up your node first to obtain mining address and pool details.&#x20;
 
