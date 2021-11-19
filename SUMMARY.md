@@ -1,11 +1,12 @@
 # Table of contents
 
-* [About Ecoball](README.md)
-  * [Introduction](basic-infomation/ecoball-introduction.md)
-  * [Design](basic-infomation/design.md)
-  * [Consensus mechanism](basic-infomation/consensus-mechanism.md)
-  * [Features](basic-infomation/features.md)
-  * [Ecosystem](basic-infomation/ecosystem.md)
+## About Ecoball
+
+* [Introduction](README.md)
+* [Design](about-ecoball/design.md)
+* [Consensus mechanism](about-ecoball/consensus-mechanism.md)
+* [Features](about-ecoball/features.md)
+* [Ecosystem](about-ecoball/ecosystem.md)
 
 ## Functions
 

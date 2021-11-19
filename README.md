@@ -1,6 +1,4 @@
-# About Ecoball
-
-Welcome, pioneers.
+# Introduction
 
 Blockchain was first applied in the Bitcoin system, and the term 'blockchain' was officially defined later in the development process.&#x20;
 
@@ -13,3 +11,9 @@ Thereafter, numerous attempts has been made on bringing blockchain to real life 
 However, after years of development, Dapps are not yet been massively adopted. And the major reason is that the current Dapps are built on blockchains that are incapable of processing large scale transactions.
 
 In this context, the Ecoball chain came into being.
+
+Ecoball is an advanced blockchain developed with innovations, aiming to provide a strong foundation for blockchain applications which could get a boost on their usability.
+
+With 5 years of consistent research and development, Ecoball is now ready to support a large ecosystem, and its foundation is built with a sustainable economic model and a community-driven governance model. Such integration makes Ecoball a true decentralization particularly suitable for demanding Dapps in DeFi, NFT, DAO etc.
+
+****
