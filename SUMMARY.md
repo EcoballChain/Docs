@@ -3,12 +3,12 @@
 * [About Ecoball](README.md)
   * [Introduction](basic-infomation/ecoball-introduction.md)
   * [Design](basic-infomation/design.md)
+  * [Consensus mechanism](basic-infomation/consensus-mechanism.md)
   * [Features](basic-infomation/features.md)
   * [Ecosystem](basic-infomation/ecosystem.md)
 
 ## Functions
 
-* [Consensus mechanism](functions/consensus-mechanism.md)
 * [Token - ECO](functions/token-special-topic.md)
 * [EcoScan](functions/blockchain-explorer.md)
 * [EcoBridge](functions/assert-cross-chain.md)
