@@ -13,6 +13,7 @@
 * [Token - ECO](functions/token-special-topic.md)
 * [EcoScan](functions/blockchain-explorer.md)
 * [EcoBridge](functions/assert-cross-chain.md)
+* [Exabc](functions/exabc.md)
 
 ## For Users
 
@@ -43,7 +44,3 @@
   * [web3.eth](for-developers/web3js/web3.eth.md)
   * [web3.eth.subscribe](for-developers/web3js/web3.eth.subscribe.md)
   * [web3.eth.Contract](for-developers/web3js/web3.eth.contract.md)
-
-## Test Dictionary
-
-* [Test](test-dictionary/test.md)
