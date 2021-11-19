@@ -125,11 +125,11 @@ Users can first find the Microsoft Store on Windows 10, and then search 'Linux' 
 
 Search for Linux to find and install Ubuntu:
 
-![Search for Linux to find and install Ubuntu](../.gitbook/assets/node-install-ubuntu.png)
+![](../.gitbook/assets/a.PNG)
 
 Once Ubuntu is installed, run it:
 
-![Start Ubuntu from search result screen](../.gitbook/assets/node-start-ubuntu.png)
+![](../.gitbook/assets/bb.PNG)
 
 The next time you use Ubuntu, you can run Ubuntu directly from the menu bar:
 
@@ -171,7 +171,7 @@ Curl is a tool you need to test basic commands, and most Linux systems come with
 
 If the test is performed on a local node machine, the address and port of the node's external service is :[http://127.0.0.1:8545](http://127.0.0.1:8545).
 
-If the deployment to the public internet, and the domain name resolution, you can access through the domain name, such as [http://api.ecoball.org:8545](http://api.ecoball.org:8545).
+If the deployment is on the public internet and the domain name resolution, you can access through the domain name, such as [http://api.ecoball.org:8545](http://api.ecoball.org:8545).
 
 The first line of each of the following commands is the request execution and the second line is the return response.
 
@@ -217,7 +217,7 @@ curl -H "Content-Type: application/json" -X POST [http://127.0.0.1:8545](http://
 
 #### eth\_protocolVersion <a href="eth_protocolversion" id="eth_protocolversion"></a>
 
-Returns the current Ethereum protocol version number. Since EcoBall is Ethereum compatible, the protocol version number lets you know if the dApp is suitable for migration.
+Returns the current Ethereum protocol version number. Since Ecoball is Ethereum compatible, the protocol version number indicates if the Dapp is suitable for migration.
 
 curl -H "Content-Type: application/json" -X POST [http://127.0.0.1:8545](http://127.0.0.1:8545) --data '{"jsonrpc":"2.0","method":"eth\_protocolVersion","params":\[],"id":67}'
 
