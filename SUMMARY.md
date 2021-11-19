@@ -9,7 +9,7 @@
   * [Consensus mechanism](functions/consensus-mechanism.md)
   * [Token - ECO](functions/token-special-topic.md)
   * [EcoScan](functions/blockchain-explorer.md)
-  * [Bridge](functions/assert-cross-chain.md)
+  * [EcoBridge](functions/assert-cross-chain.md)
 * [For Users](for-users/README.md)
   * [Add Ecoball Chain to Wallet](for-users/digital-wallet/README.md)
     * [Desktop Wallet](for-users/digital-wallet/web-digital-wallet.md)

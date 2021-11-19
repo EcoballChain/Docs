@@ -1,26 +1,28 @@
-# Bridge
+---
+description: EcoBridge is a cross-chain solution released by Ecoball
+---
 
-The EcoBridge cross-chain Bridge provides the ability to interact with assets and data between external blockchains and Ecoball blockchains, allowing users to transfer assets between EVM compatible chains. Cross-chain Bridges provide fast and secure connections between EVM-compliant blockchains, providing scalability and interoperability.
+# EcoBridge
 
-EcoBridge currently supports cross-chain from Ethereum to Ecoball. Here's how the Ethereum Testnet Georli crosses chain to the Ecoball testnet chain.
+The EcoBridge is a function to interact with assets and data between external blockchains and Ecoball blockchains, allowing users to transfer assets between EVM compatible chains, improving scalability and interoperability.
 
-### Design
+EcoBridge currently supports cross-chain from Ethereum to Ecoball. Below is a workflow chart of Ethereum Testnet Georli crosses chain to the Ecoball testnet chain:
 
-![](../.gitbook/assets/bridge.png)
+![how the bridge works](../.gitbook/assets/bridge.png)
 
 ### Use
 
-To use the bridge function, you must first install a web-based digital wallet. For details, see [Web digital wallet](../for-users/digital-wallet/web-digital-wallet.md).
+To use the bridge function, you must first install a web-based or desktop digital wallet. For details, see [Desktop Wallet](../for-users/digital-wallet/web-digital-wallet.md).
 
-1）Open the chain bridge page：[https://bridge.ecoball.org/](https://bridge.ecoball.org)。By default, the page for connecting to the wallet is displayed, as shown in the following figure：
+1）Open the chain bridge page: [https://bridge.ecoball.org/](https://bridge.ecoball.org) as shown below:
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-01.png)
 
-2）Click the “connect” button，the select wallet page is displayed. As shown in the figure below：
+2）Click the 'connect' button, the select wallet page is displayed as shown below:
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-02.png)
 
-3）Here we need to select MetaMask wallet, click MetaMask to enter the cross-chain bridge page, as shown in the picture below：
+3）Select MetaMask wallet to enter the cross-chain bridge page, as shown below:
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-03.png)
 
@@ -32,15 +34,15 @@ To use the bridge function, you must first install a web-based digital wallet. F
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-05.png)
 
-6）After unlocking, click the "Transfer" button to Transfer the Token, as shown below：
+6）After unlocking, click the 'Transfer' button to Transfer the Token, as shown below：
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-06.png)
 
-7）If you need to confirm asset transfer, a confirmation dialog box is displayed, as shown in the following figure：
+7）If you need to confirm asset transfer, a confirmation dialog box is displayed, as shown in the following:
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-07.png)
 
-8）After confirming the Token transfer, MetaMask wallet will be called again for authorization, as shown in the figure below：
+8）After confirming the Token transfer, MetaMask wallet will be called again for authorization, as shown below:
 
 ![connect the digital wallet](../.gitbook/assets/crosschain-eth-08.png)
 
