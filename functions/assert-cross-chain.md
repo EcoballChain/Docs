@@ -16,19 +16,19 @@ To use the bridge function, you must first install a web-based or desktop digita
 
 1）Open the chain bridge page: [https://bridge.ecoball.org/](https://bridge.ecoball.org) as shown below:
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-01.png)
+![](../.gitbook/assets/1637305682\(1\).png)
 
 2）Click the 'connect' button, the select wallet page is displayed as shown below:
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-02.png)
+![](../.gitbook/assets/1637305748\(1\).png)
 
 3）Select MetaMask wallet to enter the cross-chain bridge page, as shown below:
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-03.png)
+![](../.gitbook/assets/1637305795\(1\).png)
 
 4）Select the tokens to cross the chain and add them if they are not on the list：
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-04.png)
+![](../.gitbook/assets/1637306274\(1\).png)
 
 5）MetaMask authorization is required for unlocking on the original chain. Click confirm button for authorization, as shown in the figure below：
 
