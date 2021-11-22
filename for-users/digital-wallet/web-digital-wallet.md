@@ -54,12 +54,30 @@ To connect MetaMask to Exabc follow the steps below.
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-If you have installed MetaMask wallet, add Ecoball mainnet to your wallet through the following steps:
+{% tab title="Imtoken" %}
+**Open the ImToken app**
+
+* Select** ‘Browser’ **on the bottom menu
+
+![](<../../.gitbook/assets/1637140725(1) (1).png>)
+
+* Input** “**[**https://scan.ecoball.org/validators**](https://scan.ecoball.org/validators%E2%80%9D%E9%93%BE%E6%8E%A5)**”** in search
+
+![](../../.gitbook/assets/1637140798\(1\).png)
+
+* Find and click** ‘Add EcoBall Chain’**
+
+![](../../.gitbook/assets/1637140866\(1\).png)
+
+* A confirmation window will pop up, click ‘**Approve’** then it is done**.**
+
+![](../../.gitbook/assets/1637140831\(1\).png)
+
+## Resources
+
+****[**Download Imtoken**](https://token.im/download) (Automatically detects device)
 {% endtab %}
 {% endtabs %}
-
-Once you click ‘Custom RPC’, MetaMask wallet will ask for network information. Fill in the columns with Ecoball Mainnet information accordingly:
 
 
 
