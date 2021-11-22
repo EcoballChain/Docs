@@ -32,22 +32,22 @@ To use the bridge function, you must first install a web-based or desktop digita
 
 5）MetaMask authorization is required for unlocking on the original chain. Click confirm button for authorization, as shown in the figure below：
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-05.png)
+![](../.gitbook/assets/微信图片编辑\_20211122112636.jpg)
 
 6）After unlocking, click the 'Transfer' button to Transfer the Token, as shown below：
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-06.png)
+![](../.gitbook/assets/微信图片编辑\_20211122111410.jpg)
 
 7）If you need to confirm asset transfer, a confirmation dialog box is displayed, as shown in the following:
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-07.png)
+![](../.gitbook/assets/1637553173\(1\).png)
 
 8）After confirming the Token transfer, MetaMask wallet will be called again for authorization, as shown below:
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-08.png)
+![](../.gitbook/assets/1212121.png)
 
 9）After authorization, the system immediately transfers the cross-chain assets, which needs to wait for the confirmation of several blocks. Depending on the network condition, it generally takes several minutes, as shown in the figure below：
 
-![connect the digital wallet](../.gitbook/assets/crosschain-eth-09.png)
+![](../.gitbook/assets/1637553335\(1\).png)
 
 After sufficient block confirmations, the tokens on the original chain are converted into tokens on the target chain.
