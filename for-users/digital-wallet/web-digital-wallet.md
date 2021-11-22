@@ -117,18 +117,7 @@ To connect MetaMask to Exabc follow the steps below.
 
 ## Resources
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)
+[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)After you save the network info, you may check your connectivity by going to Ecoball [validators page](https://scan.ecoball.org/validators) and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
 {% endtab %}
 {% endtabs %}
 
-After you save the network info, you may check your connectivity by going to Ecoball [validators page](https://scan.ecoball.org/validators) and connect to MetaMask wallet through ‘Login with MetaMask’ tab:
-
-![](<../../.gitbook/assets/1 (1).PNG>)
-
-Then MetaMask wallet will pop up a confirmation window, click ‘Next’ then ‘Connect’. Make sure your wallet is connected to Ecoball mainnet:
-
-![click 'Next'](../../.gitbook/assets/2.2.PNG)
-
-![click 'Connect'](../../.gitbook/assets/2.3.PNG)
-
-![make sure you are connected to Ecoball mainnet](../../.gitbook/assets/2.4.PNG)
