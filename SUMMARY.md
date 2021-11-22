@@ -18,7 +18,7 @@
 ## For Users
 
 * [Add Ecoball Chain to Wallet](for-users/digital-wallet/README.md)
-  * [Desktop Wallet](for-users/digital-wallet/web-digital-wallet.md)
+  * [Connect Your Wallet](for-users/digital-wallet/web-digital-wallet.md)
   * [Mobile Wallet](for-users/digital-wallet/mobile-digital-wallet.md)
 * [Vote](for-users/staking-and-voting/README.md)
   * [Election](for-users/staking-and-voting/election.md)
