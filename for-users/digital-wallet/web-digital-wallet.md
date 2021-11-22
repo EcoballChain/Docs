@@ -72,9 +72,10 @@ Once you click ‘Custom RPC’, MetaMask wallet will ask for network informatio
 ## Chrome and Firefox
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
-2. A window will open. Type in the details below.
 
-![](../../.gitbook/assets/10.png)
+![](<../../.gitbook/assets/image (9) (1).png>)
+
+1. A window will open. Type in the details below.
 
 **Network Name:** Ecoball Chain\
 **New RPC URL:** [https://api.Ecoball.org/Ecoball/](https://api.ecoball.org/Ecoball/)\
@@ -82,19 +83,19 @@ Once you click ‘Custom RPC’, MetaMask wallet will ask for network informatio
 **Currency Symbol (optional):ECO** \
 **Block Explorer URL (optional):** [https://scan.Ecoball.org](https://scan.ecoball.org)
 
-![](broken-reference)
+![](../../.gitbook/assets/10.png)
 
 1. Make sure you've typed everything in correctly and click **Save**. EcoBall Chain will now be one of your network options.
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (10).png>)
 
 1. Visit the Exabc website. In the top right corner you'll see the **Connect** button. Click it.
 
-![](broken-reference)
+![](../../.gitbook/assets/1637555176\(1\).png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (12).png>)
 
 ## Resources
 
