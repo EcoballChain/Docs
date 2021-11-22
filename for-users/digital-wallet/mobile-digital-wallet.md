@@ -2,7 +2,7 @@
 
 Ecoball chain supports MetaMask and ImToken on mobile, please go to their official pages or visit mobile app store to download.
 
-### **Open the Metamsk/ImToken app**
+### **Open the MetaMask/ImToken app**
 
 1. Select** ‘Browser’ **on the bottom menu
 
