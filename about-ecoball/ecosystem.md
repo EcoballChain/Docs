@@ -24,11 +24,11 @@ However, these cryptocurrency mortgage lending platforms, like traditional mortg
 
 #### Decentralized Insurance <a href="decentralized-insurance" id="decentralized-insurance"></a>
 
-Decentralized insurance services are enabled in the forms of mutual insurance and financial derivatives. It is enforced automatically and cannot be tampered with. Common risk events in the token circle such as including private keys theft, cyber attack, stolen wallet and smart contracts manipulation can be insured.
+Decentralized insurance services are enabled in the forms of mutual insurance and financial derivatives. It is enforced automatically and cannot be tampered with. Common risk events in the token circle such as private keys theft, cyber attack, stolen wallet and smart contracts manipulation can be insured.
 
 #### Algorithmic Stablecoin <a href="algorithmic-stablecoin" id="algorithmic-stablecoin"></a>
 
-Algorithmic stablecoin, also known as unsecured stablecoin, imitating the central bank, it has no collateral and it is directly issued through a smart contract. Issuers claim that the stablecoin is fixed at 1:1 ratio to US dollar in value. When the coin price goes beyond that ratio, issuers will issue additional coins to decrease the price back to the ratio. When the price of the currency falls below, the supply of stablecoins is retracted through the issuance of 'bonds to maintain the ratio.
+Algorithmic stablecoin, also known as unsecured stablecoin, imitating the central bank, it has no collateral and it is directly issued through a smart contract. Issuers claim that the stablecoin is fixed at 1:1 ratio to US dollar in value. When the coin price goes beyond that ratio, issuers will issue additional coins to decrease the price back to the ratio. When the price of the currency falls below, the supply of stablecoins is retracted through the issuance of bonds to maintain the ratio.
 
 #### Non-Fungible Token (NFT) <a href="non-fungible-token-nft" id="non-fungible-token-nft"></a>
 
@@ -36,9 +36,9 @@ Non-Fungible Token NFT (Non-Fungible Token) has the characteristics of indivisib
 
 #### Distributed Computing and Storage <a href="distributed-computing-and-storage" id="distributed-computing-and-storage"></a>
 
-The computing, transmission and storage of massive amounts of data is huge market. According to the 'Data Age 2025' released by the International Data Corporation (IDC), the global annual data will increase from 33ZB (1ZB=10 trillion bytes) in 2018 to 175ZB, which is equivalent to 491EB (1EB=1.1529) per day. e+18 bytes) data.
+The computing, transmission and storage of large amount of data have a huge market. According to the 'Data Age 2025' released by the International Data Corporation (IDC), the global annual data amount will increase from 33ZB (1ZB=10 trillion bytes) in 2018 to 175ZB, which is equivalent to 491EB (1EB=1.1529) per day.
 
-Ecoball Distributed Computing Storage System (Ecoball File System, EcoFS), is a decentralized P2P distributed file system. It is the evolved version of IPFS and FileCoin, composed and owned by every user. Ecoball incentive mechanism and the dual engine of the cloud service platform allows users to enjoy consumer applications and contribute incentive dividends.
+Ecoball Distributed Computing Storage System (Ecoball File System, EcoFS), is a decentralized P2P distributed file system. It is an evolved version of IPFS and FileCoin, composed and owned by users.&#x20;
 
 ## How to join the Ecoball ecosystem? <a href="how-to-join-the-ecoball-ecosystem" id="how-to-join-the-ecoball-ecosystem"></a>
 
