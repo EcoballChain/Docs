@@ -44,7 +44,7 @@ Ecoball Distributed Computing Storage System (Ecoball File System, EcoFS), is a 
 
 **Validators**
 
-A validator runs a node that verifies transactions and finalizes blocks on the Ecoball chain. Each validator must provide a minimum ECO collateral of 500K to setup a node. They start as candidates, and have the chance to become validators every 24 hours in a new round of election.
+A validator runs a node that verifies transactions and finalizes blocks on the Ecoball chain. Each validator must provide a minimum ECO collateral of 500,000 to setup a node. They start as candidates, and have the chance to become validators every 24 hours in a new round of election.
 
 **Developers / Business Owners**
 
