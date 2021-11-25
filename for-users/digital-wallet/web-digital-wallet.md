@@ -96,7 +96,7 @@ To connect MetaMask to Exabc follow the steps below.
 1. A window will open. Type in the details below.
 
 **Network Name:** Ecoball Chain\
-**New RPC URL:** [https://api.Ecoball.org/Ecoball/](https://api.ecoball.org/Ecoball/)\
+**New RPC URL:**[ ](https://api.ecoball.org/ecoball/)[https://api.ecoball.org/ecoball/](https://api.ecoball.org/ecoball/)\
 **Chain ID:** 2100\
 **Currency Symbol (optional):ECO** \
 **Block Explorer URL (optional):** [https://scan.Ecoball.org](https://scan.ecoball.org)
