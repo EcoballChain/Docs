@@ -1,5 +1,8 @@
 ---
-description: EcoBridge is a cross-chain solution released by Ecoball
+description: >-
+  The EcoBridge is a function to interact with assets and data between external
+  blockchains and Ecoball blockchains, allowing users to transfer assets between
+  EVM compatible chains, improving scalabilit
 ---
 
 # EcoBridge
