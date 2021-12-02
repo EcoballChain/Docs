@@ -20,7 +20,7 @@
 * [Add Ecoball Chain to Wallet](for-users/digital-wallet/README.md)
   * [Connect Your Wallet](for-users/digital-wallet/web-digital-wallet.md)
   * [Automatic Setup Ecoball Chain](for-users/digital-wallet/mobile-digital-wallet.md)
-* [Vote](for-users/staking-and-voting/README.md)
+* [Staking mining](for-users/staking-and-voting/README.md)
   * [Election](for-users/staking-and-voting/election.md)
   * [Become a Candidate](for-users/staking-and-voting/become-a-candidate.md)
   * [Stake, Unstake and Move ECO](for-users/staking-and-voting/stake-unstake-and-move-eco.md)
