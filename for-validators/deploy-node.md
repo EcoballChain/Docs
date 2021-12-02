@@ -49,9 +49,9 @@ Step 3: Modify the startup configuration file;
 
 Step 4: Launch the node software;
 
-Step 5: Staking.
+Step 5: Become a candidate for staking mining。
 
-### Create a wallet <a href="#create-a-wallet" id="create-a-wallet"></a>
+### Step 1：Create a wallet <a href="#create-a-wallet" id="create-a-wallet"></a>
 
 Create a wallet:
 
@@ -69,7 +69,7 @@ After the wallet is created, the system automatically creates a data directory i
 
 ![wallet keystore file](../.gitbook/assets/node-wallet-keystore-en.png)
 
-### Create a password file <a href="#create-a-password-file" id="create-a-password-file"></a>
+### Step 2：Create a password file <a href="#create-a-password-file" id="create-a-password-file"></a>
 
 Create a password file.
 
@@ -79,7 +79,7 @@ Then enter the password you created early along with wallet creation above. Save
 
 ![wallet password file](../.gitbook/assets/node-wallet-passwd-en.png)
 
-### Modify the startup configuration file <a href="#modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
+### Step 3：Modify the startup configuration file <a href="#modify-the-startup-configuration-file" id="modify-the-startup-configuration-file"></a>
 
 > vim config.toml
 
@@ -97,7 +97,7 @@ Save and exit. The modified configuration file is as follows:
 
 ![modified node config](../.gitbook/assets/node-config-modify.png)
 
-## Launch node software to console <a href="#launch-node-software-to-console" id="launch-node-software-to-console"></a>
+## Step 4：Launch node software to console <a href="#launch-node-software-to-console" id="launch-node-software-to-console"></a>
 
 Execute the following command to enter the console. If there is any error in the configuration file, the program will not run normally, and an error message will appear; if there is no error in the configuration file, you will be able to see the interface scrolling:
 
@@ -137,7 +137,7 @@ The next time you use Ubuntu, you can run Ubuntu directly from the menu bar:
 
 Every other setup steps are the same as the ones for Linux system.
 
-### Become a candidate for staking mining <a href="#become-a-validation-node" id="become-a-validation-node"></a>
+### Step 5：Become a candidate for staking mining <a href="#become-a-validation-node" id="become-a-validation-node"></a>
 
 After the node software is installed, deployed and running, it becomes a node server, and it starts to synchronize node data and verify transactions normally.
 
