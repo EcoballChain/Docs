@@ -12,6 +12,6 @@ Vote Proof of Stake (VPoS) extends the PoS model to allow individuals to stake t
 
 DAO is a smart contract algorithm. All financial transactions, rules, and decisions are enacted and stored on the blockchain, creating a transparent and verifiable record. Rules are initially set forth in smart contracts, and members (participating token holders) act according to the rules to further the goals of the organization.
 
-**Multi-layer architecture **
+**Multi-layer architecture**&#x20;
 
 Ecoball's architecture includes a core layer, an adaptation layer, and a business layer. The core layer encapsulates basic components of encryption and decryption algorithm, account address management, P2P network components, consensus mechanism libraries, state machines, virtual machines, etc. ; the adaptation layer provides APIs, Dapps use the API to obtain Ecoball blockchain services; the business layer provides a Dapp development platform for quick Dapp development.

@@ -1,4 +1,24 @@
-# Basic commands
+# Running in Windows 10 environment
+
+For now, there is only Linux version of the node program. If you do not have a Linux computer, Windows 10 could also work, a Linux running environment on Windows 10 will be required. Since the Linux subsystem is natively supported in Windows 10, you can run Linux directly on Windows 10, without the need for a separate installation of software like a virtual machine.
+
+Users can first find the Microsoft Store on Windows 10, and then search 'Linux' in the App Store. Here we recommend the Ubuntu 20.04 LTS version.
+
+Search for Linux to find and install Ubuntu:
+
+![](../.gitbook/assets/a.PNG)
+
+Once Ubuntu is installed, run it:
+
+![](../.gitbook/assets/bb.PNG)
+
+The next time you use Ubuntu, you can run Ubuntu directly from the menu bar:
+
+![Start Ubuntu from the menu bar](../.gitbook/assets/node-run-ubuntu.png)
+
+Every other setup steps are the same as the ones for Linux system.
+
+## Basic commands
 
 Curl is a tool you need to test basic commands, and most Linux systems come with .
 

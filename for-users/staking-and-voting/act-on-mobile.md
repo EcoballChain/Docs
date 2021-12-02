@@ -2,7 +2,7 @@
 
 Actions including become a candidate, stake, unstake, move and claim staking rewards can all be performed on mobile wallet.
 
-Follow the step to login through your mobile wallet: _**My Account → Browser → Search → Go to **_[https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ Login With MetaMask → Connect ;**_
+Follow the step to login through your mobile wallet: _**My Account → Browser → Search → Go to**_ [https://scan.ecoball.org/validators](https://scan.ecoball.org/validators) _**→ Login With MetaMask → Connect ;**_
 
 ![my account](../../.gitbook/assets/0.jpg) ![browser](../../.gitbook/assets/-2.jpg) ![search](../../.gitbook/assets/-1.jpg)
 

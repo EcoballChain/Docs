@@ -2,7 +2,7 @@
 description: This page provides a full introduction to Ecoball validator election
 ---
 
-# Election Rules
+# Election
 
 Link to election page: [https://scan.ecoball.org/validators](https://scan.ecoball.org/validators)
 
@@ -68,21 +68,21 @@ At T, voters stake for candidates. If at T+1, the candidates are elected to be v
 
 For each cycle, the amount of ECO rewards is calculated with formula:
 
-_                                                y = a - b \*（T-1）_
+&#x20;                                               _y = a - b \*（T-1）_
 
 Where _**a - initial reward，b – decreasing factor , T - the current cycle**_
 
-_**               a**_ is fixed at 80547.945205479452054794
+&#x20;              _**a**_ is fixed at 80547.945205479452054794
 
-_**               b **_is fixed at 2.206793019328204165
+&#x20;              _**b**_ is fixed at 2.206793019328204165
 
-_**               T**_ is the current cycle (‘Epoch number’ on validators page)
+&#x20;              _**T**_ is the current cycle (‘Epoch number’ on validators page)
 
 At the 18251st cycle, the reward will be fixed at 40273.97260273973:
 
-_             If T <= 18250, reward = a - b \*（T-1）_
+&#x20;            _If T <= 18250, reward = a - b \*（T-1）_
 
-_             If T > 18250, reward = 40273.97260273973_
+&#x20;            _If T > 18250, reward = 40273.97260273973_
 
 &#x20;
 
@@ -100,11 +100,11 @@ _Individual Voter Rewards = ( Individual Voter Staking / Total Pool Staking ) \*
 
 ### **Penalty**
 
-Each validator node is obligated to generate random numbers. In each cycle (28800 blocks), a validator node needs to generate 48 random numbers (28800 / 600, 600 blocks per random number – 600 is a random number _**collectRound**_** **length).
+Each validator node is obligated to generate random numbers. In each cycle (28800 blocks), a validator node needs to generate 48 random numbers (28800 / 600, 600 blocks per random number – 600 is a random number _**collectRound**_** ** length).
 
-At the end of a cycle, the system will count random numbers that are skipped by a validator node and record the count as _**skipNumber**_. Sometimes a node could run into malfunction, to avoid false penalty, the first three _**collectRound** _will not be counted, and 2 _**skipNumber** _will be remitted (_**skipNumber** _-= 2_)_.
+At the end of a cycle, the system will count random numbers that are skipped by a validator node and record the count as _**skipNumber**_. Sometimes a node could run into malfunction, to avoid false penalty, the first three _**collectRound** _ will not be counted, and 2 _**skipNumber** _ will be remitted (_**skipNumber** _ -= 2_)_.
 
-Since the last random number will affect election result, therefore if a validator node skips the last random number, it will be penalized 10 additional counts (_**skipNumber** _+= 10).
+Since the last random number will affect election result, therefore if a validator node skips the last random number, it will be penalized 10 additional counts (_**skipNumber** _ += 10).
 
 If _**skipNumber**_ > 0, the node will be banned for _**skipNumber**_ \* 5 cycles. ECO on the node will be locked up as well.
 
