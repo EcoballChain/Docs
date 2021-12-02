@@ -36,13 +36,3 @@
 ## For Developers
 
 * [Technicals](for-developers/technicals.md)
-* [Ethers.js](for-developers/ethers.js.md)
-* [Web3js](for-developers/web3js/README.md)
-  * [Summay](for-developers/web3js/summay.md)
-  * [Getting Started](for-developers/web3js/getting-started.md)
-  * [Callbacks Promises Events](for-developers/web3js/callbacks-promises-events.md)
-  * [Glossary](for-developers/web3js/glossary.md)
-  * [Web3](for-developers/web3js/web3.md)
-  * [web3.eth](for-developers/web3js/web3.eth.md)
-  * [web3.eth.subscribe](for-developers/web3js/web3.eth.subscribe.md)
-  * [web3.eth.Contract](for-developers/web3js/web3.eth.contract.md)
