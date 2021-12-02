@@ -31,7 +31,7 @@
 
 * [Deploy Node](for-validators/deploy-node.md)
 * [Node Hardware Configuration](for-validators/node-hardware-configuration.md)
-* [Running in Windows 10 environment](for-validators/running-in-windows-10-environment.md)
+* [Running in Windows 10 environment](for-validators/basic-commands.md)
 
 ## For Developers
 

@@ -49,7 +49,9 @@ Step 3: Modify the startup configuration file;
 
 Step 4: Launch the node software;
 
-Step 5: Become a candidate for staking mining。
+Step 5：Launch validator node software to background
+
+Step 6: Become a candidate for staking mining。
 
 ### Step 1：Create a wallet <a href="#create-a-wallet" id="create-a-wallet"></a>
 
@@ -97,7 +99,7 @@ Save and exit. The modified configuration file is as follows:
 
 ![modified node config](../.gitbook/assets/node-config-modify.png)
 
-## Step 4：Launch node software to console <a href="#launch-node-software-to-console" id="launch-node-software-to-console"></a>
+### Step 4：Launch node software to console <a href="#launch-node-software-to-console" id="launch-node-software-to-console"></a>
 
 Execute the following command to enter the console. If there is any error in the configuration file, the program will not run normally, and an error message will appear; if there is no error in the configuration file, you will be able to see the interface scrolling:
 
@@ -105,7 +107,7 @@ Execute the following command to enter the console. If there is any error in the
 
 ![node run](../.gitbook/assets/node-run-validator.png)
 
-## Launch validator node software to background <a href="#launch-validator-node-software-to-background" id="launch-validator-node-software-to-background"></a>
+### Step 5：Launch validator node software to background <a href="#launch-validator-node-software-to-background" id="launch-validator-node-software-to-background"></a>
 
 Launch the node software to run in the background, and output the log to the log file. It will not be closed even if the console is closed or disconnected. The following operations are required:
 
@@ -117,27 +119,7 @@ If you need to monitor real-time logs, you can run the following command:
 
 ![node monitor](../.gitbook/assets/node-run-log.png)
 
-## Running in Windows 10 environment <a href="#running-in-windows-10-environment" id="running-in-windows-10-environment"></a>
-
-For now, there is only Linux version of the node program. If you do not have a Linux computer, Windows 10 could also work, a Linux running environment on Windows 10 will be required. Since the Linux subsystem is natively supported in Windows 10, you can run Linux directly on Windows 10, without the need for a separate installation of software like a virtual machine.
-
-Users can first find the Microsoft Store on Windows 10, and then search 'Linux' in the App Store. Here we recommend the Ubuntu 20.04 LTS version.
-
-Search for Linux to find and install Ubuntu:
-
-![](../.gitbook/assets/a.PNG)
-
-Once Ubuntu is installed, run it:
-
-![](../.gitbook/assets/bb.PNG)
-
-The next time you use Ubuntu, you can run Ubuntu directly from the menu bar:
-
-![Start Ubuntu from the menu bar](../.gitbook/assets/node-run-ubuntu.png)
-
-Every other setup steps are the same as the ones for Linux system.
-
-### Step 5：Become a candidate for staking mining <a href="#become-a-validation-node" id="become-a-validation-node"></a>
+### Step 6：Become a candidate for staking mining <a href="#become-a-validation-node" id="become-a-validation-node"></a>
 
 After the node software is installed, deployed and running, it becomes a node server, and it starts to synchronize node data and verify transactions normally.
 
@@ -152,6 +134,3 @@ For the specific operation process, please refer to Pledge | Pledge on the web s
 It should be noted that to pledge to become a candidate, it is best to wait for the node synchronization to complete before proceeding. Otherwise, if the synchronization is not completed, the application becomes a candidate, and then becomes a verifier, but because the synchronization is not completed, the block cannot be generated, which may result in punishment and loss.
 {% endhint %}
 
-
-
-## &#x20;<a href="#node-hardware-configuration" id="node-hardware-configuration"></a>
