@@ -75,7 +75,7 @@ To connect MetaMask to Exabc follow the steps below.
 
 ## Resources
 
-****[**Download Imtoken**](https://token.im/download) (Automatically detects device)
+**Download Imtoken** (Automatically detects device)
 {% endtab %}
 {% endtabs %}
 
