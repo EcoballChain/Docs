@@ -29,9 +29,9 @@
 
 ## For Validators
 
-* [Basic commands](for-validators/basic-commands.md)
 * [Node Hardware Configuration](for-validators/node-hardware-configuration.md)
 * [Deploy Node](for-validators/deploy-node.md)
+* [Basic commands](for-validators/basic-commands.md)
 
 ## For Developers
 
