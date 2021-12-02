@@ -57,15 +57,15 @@ To connect MetaMask to Exabc follow the steps below.
 {% tab title="Imtoken" %}
 **Open the ImToken app**
 
-* Select** ‘Browser’ **on the bottom menu
+* Select **‘Browser’** on the bottom menu
 
 ![](<../../.gitbook/assets/1637140725(1) (1).png>)
 
-* Input** “**[**https://scan.ecoball.org/validators**](https://scan.ecoball.org/validators%E2%80%9D%E9%93%BE%E6%8E%A5)**”** in search
+* Input **“**[**https://scan.ecoball.org/validators**](https://scan.ecoball.org/validators)**”** in search
 
 ![](../../.gitbook/assets/1637140798\(1\).png)
 
-* Find and click** ‘Add EcoBall Chain’**
+* Find and click **‘Add EcoBall Chain’**
 
 ![](../../.gitbook/assets/1637140866\(1\).png)
 
