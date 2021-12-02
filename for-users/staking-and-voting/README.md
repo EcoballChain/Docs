@@ -10,5 +10,5 @@ Before you start, make sure your wallet is connected to Ecoball chain. If not, v
 
 You may choose to become a candidate, stake/unstake/move your ECO to earn reward or vote for your favorite candidate in validator election:
 
-* [ ] [Become a Candidate](become-a-candidate.md)
-* [ ] [Stake, Unstake and Move ECO](broken-reference)
+* [Become a Candidate](become-a-candidate.md)
+* [Stake, Unstake and Move ECO](broken-reference)

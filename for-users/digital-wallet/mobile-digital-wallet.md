@@ -4,17 +4,17 @@ Ecoball chain supports MetaMask and ImToken on mobile, please go to their offici
 
 ### **Open the MetaMask/ImToken app**
 
-1. Select** ‘Browser’ **on the bottom menu
+1. Select **‘Browser’** on the bottom menu
 
 ![](<../../.gitbook/assets/1637140725(1) (1).png>)
 
 
 
-1. Input** “**[**https://scan.ecoball.org/validators**](https://scan.ecoball.org/validators%E2%80%9D%E9%93%BE%E6%8E%A5)**”** in search
+1. Input **“**[**https://scan.ecoball.org/validators**](https://scan.ecoball.org/validators)**”** in search
 
 ![](../../.gitbook/assets/1637140798\(1\).png)
 
-1. Find and click** ‘Add EcoBall Chain’**
+1. Find and click **‘Add EcoBall Chain’**
 
 ![](../../.gitbook/assets/1637140866\(1\).png)
 
