@@ -6,11 +6,11 @@ description: EcoBridge is a cross-chain solution released by Ecoball
 
 The EcoBridge is a function to interact with assets and data between external blockchains and Ecoball blockchains, allowing users to transfer assets between EVM compatible chains, improving scalability and interoperability.
 
-EcoBridge currently supports cross-chain from Binance Smart Chain to Ecoball. Support for Binance Smart Chain and other chains will be live soon.
+EcoBridge currently supports cross-chain from Binance Smart Chain to Ecoball. Support for Ethereum and other chains will be live soon.
 
 Below is a workflow chart of Binance Smart Chain crosses chain to the Ecoball chain:
 
-![how the bridge works](../.gitbook/assets/bridge.png)
+![](<../.gitbook/assets/编组 3.png>)
 
 ## Use
 
