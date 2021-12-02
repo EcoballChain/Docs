@@ -29,8 +29,8 @@
 
 ## For Validators
 
-* [Node Hardware Configuration](for-validators/node-hardware-configuration.md)
 * [Deploy Node](for-validators/deploy-node.md)
+* [Node Hardware Configuration](for-validators/node-hardware-configuration.md)
 * [Basic commands](for-validators/basic-commands.md)
 
 ## For Developers
