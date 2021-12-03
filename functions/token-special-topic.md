@@ -10,11 +10,18 @@ Any transaction on the Ecoball blockchain will consume ECO, similar to gas fees 
 
 ## ECO Token Economics
 
-### 1.1.   Total Quantity
+### 1.1.   Quantity
 
 Circulating Supply: 193 million ECO&#x20;
 
-Total Supply: 330 million ECO&#x20;
+Total Current Supply: 330 million ECO&#x20;
+
+| **Item**           | **Quantity(mil)** | **Purpose**                            |
+| ------------------ | ----------------- | -------------------------------------- |
+| Founders           | 105               | To build the system                    |
+| Marketing          | 47                | To market Ecoball                      |
+| Investors          | 126               | To develop sponsors                    |
+| Ecoball Foundation | 52                | To support R\&D in blockchain industry |
 
 ### 1.2.  Mining Rules
 
