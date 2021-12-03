@@ -6,14 +6,14 @@
 * [Design](about-ecoball/design.md)
 * [Consensus mechanism](about-ecoball/consensus-mechanism.md)
 * [Features](about-ecoball/features.md)
+* [Tokenomics](about-ecoball/token-special-topic.md)
 * [Ecosystem](about-ecoball/ecosystem.md)
 
-## Functions
+## Ecosystem
 
-* [Token - ECO](functions/token-special-topic.md)
-* [EcoScan](functions/blockchain-explorer.md)
-* [EcoBridge](functions/assert-cross-chain.md)
-* [Exabc](functions/exabc.md)
+* [EcoScan](ecosystem/blockchain-explorer.md)
+* [EcoBridge](ecosystem/assert-cross-chain.md)
+* [Exabc](ecosystem/exabc.md)
 
 ## For Users
 
