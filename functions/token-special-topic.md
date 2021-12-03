@@ -2,7 +2,7 @@
 
 **This page introduces ECO and the tokenomic.**
 
-## What is ECO? <a href="what-is-eco" id="what-is-eco"></a>
+## What is ECO? <a href="#what-is-eco" id="what-is-eco"></a>
 
 ECO is the native token of the Ecoball ecosystem. It serves as a transaction settlement medium and assumes the functionalities of bookkeeping, governance and equity certificates.
 
@@ -12,17 +12,9 @@ Any transaction on the Ecoball blockchain will consume ECO, similar to gas fees 
 
 ### 1.1.   Total Quantity
 
-Initial Minting Quantity: 378 million
+Circulating Supply: 193 million ECO&#x20;
 
-Total Minting Quantity: 2.1 billion
-
-Distribution:
-
-![Token Distribution](<../.gitbook/assets/0 (1).PNG>)
-
-Purpose of the distribution：
-
-![](../.gitbook/assets/0.5.PNG)
+Total Supply: 330 million ECO&#x20;
 
 ### 1.2.  Mining Rules
 
