@@ -16,12 +16,12 @@ Circulating Supply: 193 million ECO&#x20;
 
 Total Current Supply: 330 million ECO&#x20;
 
-| **Item**           | **Quantity(mil)** | **Purpose**                            |
-| ------------------ | ----------------- | -------------------------------------- |
-| Founders           | 105               | To build the system                    |
-| Marketing          | 47                | To market Ecoball                      |
-| Investors          | 126               | To develop sponsors                    |
-| Ecoball Foundation | 52                | To support R\&D in blockchain industry |
+| **Item**           | **Quantity(mil)** | **Purpose**                            |                                                    |
+| ------------------ | ----------------- | -------------------------------------- | -------------------------------------------------- |
+| Founders           | 105               | To build the system                    | with 4-year vesting <code>\`85,000,000 ECO\`</code>  |
+| Marketing          | 47                | To market Ecoball                      |                                                    |
+| Investors          | 126               | To develop sponsors                    |                                                    |
+| Ecoball Foundation | 52                | To support R\&D in blockchain industry | with 10-year vesting <code>\`52,000,000 ECO\`</code> |
 
 ### 1.2.  Mining Rules
 
