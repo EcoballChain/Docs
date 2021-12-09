@@ -1,4 +1,4 @@
-# Token - ECO
+# Tokenomics
 
 **This page introduces ECO and the tokenomic.**
 
@@ -10,20 +10,15 @@ Any transaction on the Ecoball blockchain will consume ECO, similar to gas fees 
 
 ## ECO Token Economics
 
-### 1.1.   Quantity
+### 1.1. Quantity
 
-Circulating Supply: 193 million ECO&#x20;
+Circulating Supply: 193 million ECO
 
-Total Current Supply: 330 million ECO&#x20;
+Total Current Supply: 330 million ECO
 
-| **Item**           | **Quantity(mil)** | **Purpose**                            |                                                    |
-| ------------------ | ----------------- | -------------------------------------- | -------------------------------------------------- |
-| Founders           | 105               | To build the system                    | with 4-year vesting <code>\`85,000,000 ECO\`</code>  |
-| Marketing          | 47                | To market Ecoball                      |                                                    |
-| Investors          | 126               | To develop sponsors                    |                                                    |
-| Ecoball Foundation | 52                | To support R\&D in blockchain industry | with 10-year vesting <code>\`52,000,000 ECO\`</code> |
+![](../.gitbook/assets/tokenomics.PNG)
 
-### 1.2.  Mining Rules
+### 1.2. Mining Rules
 
 In the early stage of the community, pioneer miners deserve higher rewards. To reward these pioneers, we adopt an ECO releasing schedule with a linear decreasing model, early miners will receive more ECO per block as rewards. Going forward as the platform become stable and robust, ECO releasing amount will gradually decrease on a per block basis.
 
@@ -37,7 +32,7 @@ Below are illustrations of the mining reward rules:
 
 ![Block rewards (ix-axis) to miners (including validators and voters) will be released linearly within 30 years (y-axis) after the mainnet launch](../.gitbook/assets/2.PNG)
 
-### 1.3.  Staking Rewards
+### 1.3. Staking Rewards
 
 A key indicator to the robustness of a Proof-of-Stake system is the staking ratio of the network. A high staking ratio will make the system hard-to-attack. However, once the staking ratio pass a point where it becomes too high, the system will be overwhelmed, consequently, liquidity in the system will be decreased. Therefore, in the long run, the staking ratio will dynamically adjust itself to reach equilibrium. Referring to current PoS public blockchains, the equilibrium point should be where the staking ratio is between 0.5 and 0.6.
 
@@ -46,4 +41,3 @@ The self-balancing mechanism of the staking ratio is realized by the negative co
 The following chart illustrates an estimation of staking yields vs staking ratios:
 
 ![Estimated staking yields versus different staking ratios](../.gitbook/assets/3.PNG)
-
