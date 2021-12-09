@@ -28,9 +28,9 @@ The formula to calculate block rewards (ECO release) during each voting cycle:
 
 Below are illustrations of the mining reward rules:
 
-![The total supply amount of ECO (y-axis) over years (x-axis) without deflation caused transaction fees burning](../.gitbook/assets/1.PNG)
+![the total supply amount of ECO (y-axis) over years (x-axis) without deflation caused transaction fees burning.](../.gitbook/assets/image\_2021-12-09\_10-43-56.png)
 
-![Block rewards (ix-axis) to miners (including validators and voters) will be released linearly within 30 years (y-axis) after the mainnet launch](../.gitbook/assets/2.PNG)
+![Block rewards (y-axis) to miners (including validators and voters) will be released linearly within 30 years (x-axis) after the mainnet launch](../.gitbook/assets/2.PNG)
 
 ### 1.3. Staking Rewards
 
