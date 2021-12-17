@@ -8,6 +8,7 @@
 * [Features](about-ecoball/features.md)
 * [Tokenomics](about-ecoball/token-special-topic.md)
 * [Ecosystem](about-ecoball/ecosystem.md)
+* [Ecoball AMA](about-ecoball/ecoball-ama.md)
 
 ## Ecosystem
 
