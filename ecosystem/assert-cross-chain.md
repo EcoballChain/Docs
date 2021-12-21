@@ -55,9 +55,7 @@ To use the bridge function, you must first install a web-based or desktop digita
 
 5\. MetaMask authorization is required for unlocking on the original chain. Click confirm button for authorization, as shown in the figure below：
 
-
-
-![](../.gitbook/assets/微信图片编辑\_20211122112636.jpg)
+![](../.gitbook/assets/1640082459\(1\).png)
 
 
 
