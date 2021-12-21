@@ -81,7 +81,7 @@ To use the bridge function, you must first install a web-based or desktop digita
 
 
 
-![](<../.gitbook/assets/1212121 (1).png>)
+![](../.gitbook/assets/1640081343\(1\).png)
 
 
 
