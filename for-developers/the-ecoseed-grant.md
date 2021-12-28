@@ -26,7 +26,7 @@ Project preference: GameFi and DeFi projects.
 #### Procedure:
 
 1. Submit your project proposal/whitepaper to: [docs@ecoball.org](mailto:docs@ecoball.org)
-2. Project review by the Ecoball team, evaluation typically takes 3\~5 business days.
+2. Project review by the Ecoball team.
 3. Selected project team will be contacted and discuss with details.
 4. Project onboard on predetermined date.
 
