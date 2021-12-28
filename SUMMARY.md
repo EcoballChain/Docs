@@ -35,4 +35,5 @@
 
 ## For Developers
 
+* [The EcoSeed Grant](for-developers/the-ecoseed-grant.md)
 * [Technicals](for-developers/technicals.md)
