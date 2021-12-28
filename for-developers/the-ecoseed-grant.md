@@ -6,7 +6,7 @@ description: >-
 
 # The EcoSeed Grant
 
-The EcoSeed grant offer: **10,000,000 ECO**
+The EcoSeed grant offer: **10,000,000 ECO**.
 
 Project preference: GameFi and DeFi projects.
 
